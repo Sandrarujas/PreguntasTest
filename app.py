@@ -45,21 +45,17 @@ def cargar_preguntas(fecha_json):
         )
 
     try:
-
         with open(
             ARCHIVO_JSON,
             "r",
             encoding="utf-8"
         ) as f:
-
             datos = json.load(f)
 
     except json.JSONDecodeError as e:
-
         return [], f"El JSON no es válido: {e}"
 
     except Exception as e:
-
         return [], f"No se pudo leer el JSON: {e}"
 
     preguntas = (
@@ -69,7 +65,6 @@ def cargar_preguntas(fecha_json):
     )
 
     if not isinstance(preguntas, list):
-
         return [], (
             "El JSON no contiene una lista "
             "válida de preguntas."
@@ -119,31 +114,24 @@ def cargar_preguntas(fecha_json):
         resultado.append(
             {
                 "id": pregunta.get("id"),
-
                 "tema": tema,
-
                 "pregunta": str(
                     pregunta["pregunta"]
                 ).strip(),
-
                 "opciones": {
                     "A": str(
                         opciones.get("A", "")
                     ).strip(),
-
                     "B": str(
                         opciones.get("B", "")
                     ).strip(),
-
                     "C": str(
                         opciones.get("C", "")
                     ).strip(),
-
                     "D": str(
                         opciones.get("D", "")
                     ).strip(),
                 },
-
                 "respuesta_correcta": correcta,
             }
         )
@@ -152,7 +140,7 @@ def cargar_preguntas(fecha_json):
 
 
 # ============================================================
-# CARGAMOS LAS PREGUNTAS
+# CARGAR LAS PREGUNTAS
 # ============================================================
 
 fecha_json = (
@@ -174,7 +162,7 @@ def inicializar_estado():
 
     valores = {
 
-        # LA PANTALLA PRINCIPAL SERÁ TEORÍA
+        # La pantalla inicial será Teoría
         "modo": "Teoría",
 
         "preguntas_test": [],
@@ -198,7 +186,6 @@ def inicializar_estado():
     for clave, valor in valores.items():
 
         if clave not in st.session_state:
-
             st.session_state[clave] = valor
 
 
@@ -267,12 +254,9 @@ def comenzar_test(
         )
 
         pendientes = [
-
             p
             for p in preguntas_disponibles
-
-            if p.get("id")
-            not in utilizadas
+            if p.get("id") not in utilizadas
         ]
 
     else:
@@ -370,12 +354,10 @@ with st.sidebar:
 
     modo = st.radio(
         "Vista",
-
         [
             "Teoría",
             "Práctica"
         ],
-
         index=[
             "Teoría",
             "Práctica"
@@ -388,7 +370,6 @@ with st.sidebar:
         modo != st.session_state["modo"]
         and st.session_state["test_activo"]
     ):
-
         reiniciar_test()
 
     st.session_state["modo"] = modo
@@ -530,7 +511,6 @@ def mostrar_test():
     ]:
 
         aciertos = 0
-
         contestadas = 0
 
         for indice, pregunta in enumerate(
@@ -551,7 +531,6 @@ def mostrar_test():
                     "respuesta_correcta"
                 ]
             ):
-
                 aciertos += 1
 
 
@@ -566,15 +545,12 @@ def mostrar_test():
         )
 
         porcentaje = (
-
             (
                 aciertos
                 / len(preguntas_test)
             )
             * 100
-
             if preguntas_test
-
             else 0
         )
 
@@ -674,7 +650,7 @@ def mostrar_test():
 
 
         # ====================================================
-        # DESPUÉS DEL TEST
+        # OPCIONES DESPUÉS DEL TEST
         # ====================================================
 
         st.markdown("---")
@@ -711,11 +687,8 @@ def mostrar_test():
                 )
 
                 disponibles_mismos_temas = [
-
                     p
-
                     for p in preguntas
-
                     if p["tema"]
                     in temas_guardados
                 ]
@@ -727,12 +700,8 @@ def mostrar_test():
                 )
 
                 pendientes = [
-
                     p
-
-                    for p
-                    in disponibles_mismos_temas
-
+                    for p in disponibles_mismos_temas
                     if p.get("id")
                     not in utilizadas
                 ]
@@ -789,26 +758,13 @@ def mostrar_test():
                 use_container_width=True
             ):
 
-                tipo_test = (
-                    st.session_state.get(
-                        "tipo_test",
-                        "teoria"
-                    )
-                )
-
                 reiniciar_test()
 
-                if tipo_test == "teoria":
-
-                    st.session_state[
-                        "modo"
-                    ] = "Teoría"
-
-                else:
-
-                    st.session_state[
-                        "modo"
-                    ] = "Práctica"
+                # La pantalla de inicio
+                # es siempre Teoría.
+                st.session_state[
+                    "modo"
+                ] = "Teoría"
 
                 st.rerun()
 
@@ -835,7 +791,7 @@ if st.session_state[
 
 
     # --------------------------------------------------------
-    # PANTALLA PRINCIPAL
+    # PANTALLA PRINCIPAL DE TEORÍA
     # --------------------------------------------------------
 
     st.header(
@@ -923,7 +879,6 @@ if st.session_state[
                 ),
             ):
 
-
                 disponibles_tema = [
 
                     p
@@ -938,9 +893,7 @@ if st.session_state[
                 st.session_state[
                     "temas_seleccionados"
                 ] = [
-
                     numero_tema
-
                 ]
 
 
@@ -1011,6 +964,12 @@ if st.session_state[
 
         st.header(
             "🛠️ Parte Práctica"
+        )
+
+        st.write(
+            "Selecciona uno o varios "
+            "temas y genera un "
+            "test aleatorio."
         )
 
         st.write(
