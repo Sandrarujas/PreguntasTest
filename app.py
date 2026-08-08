@@ -174,7 +174,8 @@ def inicializar_estado():
 
     valores = {
 
-        "modo": "Práctica",
+        # LA PANTALLA PRINCIPAL SERÁ TEORÍA
+        "modo": "Teoría",
 
         "preguntas_test": [],
 
@@ -191,7 +192,7 @@ def inicializar_estado():
 
         "preguntas_utilizadas": set(),
 
-        "tipo_test": "practica",
+        "tipo_test": "teoria",
     }
 
     for clave, valor in valores.items():
@@ -383,10 +384,6 @@ with st.sidebar:
         ),
     )
 
-    # Si cambiamos de modo mientras
-    # estamos haciendo un test,
-    # reiniciamos el test.
-
     if (
         modo != st.session_state["modo"]
         and st.session_state["test_activo"]
@@ -424,6 +421,9 @@ with st.sidebar:
 
         reiniciar_test()
 
+        # Al reiniciar volvemos siempre a Teoría
+        st.session_state["modo"] = "Teoría"
+
         st.rerun()
 
 
@@ -451,10 +451,6 @@ def mostrar_test():
         f"Preguntas: "
         f"**{len(preguntas_test)}**"
     )
-
-    # --------------------------------------------------------
-    # MOSTRAR PREGUNTAS
-    # --------------------------------------------------------
 
     for indice, pregunta in enumerate(
         preguntas_test,
@@ -502,9 +498,9 @@ def mostrar_test():
         respuestas[indice] = respuesta
 
 
-    # --------------------------------------------------------
-    # BOTÓN FINALIZAR
-    # --------------------------------------------------------
+    # ========================================================
+    # FINALIZAR Y CORREGIR
+    # ========================================================
 
     st.markdown("---")
 
@@ -525,9 +521,9 @@ def mostrar_test():
             st.rerun()
 
 
-    # --------------------------------------------------------
+    # ========================================================
     # RESULTADO
-    # --------------------------------------------------------
+    # ========================================================
 
     if st.session_state[
         "test_finalizado"
@@ -547,7 +543,6 @@ def mostrar_test():
             )
 
             if respuesta:
-
                 contestadas += 1
 
             if (
@@ -613,9 +608,9 @@ def mostrar_test():
         )
 
 
-        # ----------------------------------------------------
+        # ====================================================
         # CORRECCIÓN
-        # ----------------------------------------------------
+        # ====================================================
 
         st.markdown("---")
 
@@ -678,9 +673,9 @@ def mostrar_test():
             )
 
 
-        # ----------------------------------------------------
-        # OPCIONES DESPUÉS DEL TEST
-        # ----------------------------------------------------
+        # ====================================================
+        # DESPUÉS DEL TEST
+        # ====================================================
 
         st.markdown("---")
 
@@ -691,9 +686,9 @@ def mostrar_test():
         col1, col2 = st.columns(2)
 
 
-        # ----------------------------------------------------
-        # OTRO TEST
-        # ----------------------------------------------------
+        # ====================================================
+        # OTRO TEST CON LOS MISMOS TEMAS
+        # ====================================================
 
         with col1:
 
@@ -783,9 +778,9 @@ def mostrar_test():
                     st.rerun()
 
 
-        # ----------------------------------------------------
+        # ====================================================
         # VOLVER AL INICIO
-        # ----------------------------------------------------
+        # ====================================================
 
         with col2:
 
@@ -797,15 +792,11 @@ def mostrar_test():
                 tipo_test = (
                     st.session_state.get(
                         "tipo_test",
-                        "practica"
+                        "teoria"
                     )
                 )
 
                 reiniciar_test()
-
-                # Volvemos a la pantalla
-                # correspondiente al tipo
-                # de test que estábamos haciendo.
 
                 if tipo_test == "teoria":
 
@@ -831,17 +822,8 @@ if st.session_state[
 ] == "Teoría":
 
 
-    # ========================================================
-    # CORRECCIÓN IMPORTANTE
-    # ========================================================
-    #
-    # Si ya hemos iniciado un test de teoría,
-    # mostramos el test.
-    #
-    # Antes el código llegaba a st.stop()
-    # sin ejecutar mostrar_test().
-    #
-    # ========================================================
+    # Si hay un test activo,
+    # mostramos las preguntas.
 
     if st.session_state[
         "test_activo"
@@ -852,9 +834,9 @@ if st.session_state[
         st.stop()
 
 
-    # ========================================================
-    # SELECCIÓN DE TEMA
-    # ========================================================
+    # --------------------------------------------------------
+    # PANTALLA PRINCIPAL
+    # --------------------------------------------------------
 
     st.header(
         "📖 Parte Teórica"
@@ -866,6 +848,10 @@ if st.session_state[
         "con sus preguntas."
     )
 
+
+    # --------------------------------------------------------
+    # TEMAS
+    # --------------------------------------------------------
 
     for numero_tema, nombre_tema in (
         TEMAS.items()
@@ -938,10 +924,6 @@ if st.session_state[
             ):
 
 
-                # --------------------------------------------
-                # PREGUNTAS DEL TEMA
-                # --------------------------------------------
-
                 disponibles_tema = [
 
                     p
@@ -952,10 +934,6 @@ if st.session_state[
                     == numero_tema
                 ]
 
-
-                # --------------------------------------------
-                # GUARDAMOS LA CONFIGURACIÓN
-                # --------------------------------------------
 
                 st.session_state[
                     "temas_seleccionados"
@@ -983,10 +961,6 @@ if st.session_state[
                 ] = "teoria"
 
 
-                # --------------------------------------------
-                # CREAMOS EL TEST
-                # --------------------------------------------
-
                 comenzar_test(
 
                     disponibles_tema,
@@ -998,10 +972,6 @@ if st.session_state[
                     excluir_utilizadas=False
                 )
 
-
-                # --------------------------------------------
-                # GUARDAMOS LAS PREGUNTAS UTILIZADAS
-                # --------------------------------------------
 
                 if st.session_state[
                     "preguntas_test"
@@ -1020,10 +990,6 @@ if st.session_state[
                     )
 
 
-                # --------------------------------------------
-                # RECARGAMOS LA APLICACIÓN
-                # --------------------------------------------
-
                 st.rerun()
 
 
@@ -1039,10 +1005,6 @@ if st.session_state[
 ] == "Práctica":
 
 
-    # ========================================================
-    # SELECCIÓN DE TEMAS
-    # ========================================================
-
     if not st.session_state[
         "test_activo"
     ]:
@@ -1050,7 +1012,6 @@ if st.session_state[
         st.header(
             "🛠️ Parte Práctica"
         )
- 
 
         st.write(
             "Selecciona los temas "
@@ -1088,10 +1049,6 @@ if st.session_state[
                     )
 
 
-        # ----------------------------------------------------
-        # PREGUNTAS DISPONIBLES
-        # ----------------------------------------------------
-
         disponibles = [
 
             p
@@ -1110,10 +1067,6 @@ if st.session_state[
             "para tu selección."
         )
 
-
-        # ----------------------------------------------------
-        # CANTIDAD DE PREGUNTAS
-        # ----------------------------------------------------
 
         if disponibles:
 
@@ -1156,10 +1109,6 @@ if st.session_state[
 
             cantidad = 1
 
-
-        # ----------------------------------------------------
-        # COMENZAR TEST
-        # ----------------------------------------------------
 
         if st.button(
 
@@ -1208,10 +1157,6 @@ if st.session_state[
             )
 
 
-            # --------------------------------------------
-            # GUARDAMOS LAS PREGUNTAS UTILIZADAS
-            # --------------------------------------------
-
             if st.session_state[
                 "preguntas_test"
             ]:
@@ -1231,10 +1176,6 @@ if st.session_state[
 
             st.rerun()
 
-
-    # ========================================================
-    # MOSTRAR TEST DE PRÁCTICA
-    # ========================================================
 
     if st.session_state[
         "test_activo"
