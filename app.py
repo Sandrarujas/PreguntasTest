@@ -9,62 +9,90 @@ import streamlit as st
 # CONFIGURACIÓN
 # ============================================================
 
-ARCHIVO_JSON = Path(__file__).with_name(
-    "banco_preguntas_bloque_especifico_400.json"
-)
-
-# Nombre del otro banco que usará la aplicación para el
-# Bloque General. En esta versión estamos trabajando con
-# el Bloque Específico.
 ARCHIVO_JSON_GENERAL = Path(__file__).with_name(
     "banco_preguntas_bloque_general_400.json"
 )
 
-NOMBRE_BLOQUE = "Ayudante de Servicios"
+ARCHIVO_JSON_ESPECIFICO = Path(__file__).with_name(
+    "banco_preguntas_bloque_especifico_400.json"
+)
 
-TEMAS = {
-    1: (
-        "Tema 1 - La Constitución Española de 1978: "
-        "El derecho a la protección a la salud en la Constitución"
-    ),
-    2: (
-        "Tema 2 - Ley 14/1986 General de Sanidad. "
-        "Sistema Nacional de Salud"
-    ),
-    3: (
-        "Tema 3 - Ley 55/2003 del Estatuto del Personal "
-        "Estatutario de los Servicios de Salud"
-    ),
-    4: (
-        "Tema 4 - Ley 7/2019 de Salud del Principado de Asturias"
-    ),
-    5: (
-        "Tema 5 - Estatuto de Autonomía del Principado de Asturias"
-    ),
-    6: (
-        "Tema 6 - Ley 2/2011 de igualdad efectiva de mujeres y hombres"
-    ),
+BLOQUES = {
+    "Bloque General": {
+        "archivo": ARCHIVO_JSON_GENERAL,
+        "nombre": "Bloque General",
+        "temas": {
+            1: (
+                "Tema 1 - La Constitución Española de 1978: "
+                "El derecho a la protección de la salud en la Constitución"
+            ),
+            2: (
+                "Tema 2 - Ley 14/1986 General de Sanidad. "
+                "Sistema Nacional de Salud"
+            ),
+            3: (
+                "Tema 3 - Ley 55/2003 del Estatuto del Personal "
+                "Estatutario de los Servicios de Salud"
+            ),
+            4: (
+                "Tema 4 - Ley 7/2019 de Salud del "
+                "Principado de Asturias"
+            ),
+            5: (
+                "Tema 5 - Estatuto de Autonomía del "
+                "Principado de Asturias"
+            ),
+            6: (
+                "Tema 6 - Ley 2/2011 de igualdad efectiva "
+                "de mujeres y hombres"
+            ),
+        },
+    },
+    "Bloque Específico": {
+        "archivo": ARCHIVO_JSON_ESPECIFICO,
+        "nombre": "Bloque Específico",
+        "temas": {
+            7: "Tema 7 - La cocina hospitalaria centralizada",
+            8: "Tema 8 - Las materias primas",
+            9: "Tema 9 - Los alimentos y las dietas",
+            10: (
+                "Tema 10 - Acciones con alimentos. "
+                "Limpieza de la vajilla"
+            ),
+            11: (
+                "Tema 11 - Normas higiénico-sanitarias "
+                "de aplicación"
+            ),
+            12: "Tema 12 - La contaminación de los alimentos",
+            13: "Tema 13 - Seguridad e higiene en el trabajo",
+            14: "Tema 14 - Protección medioambiental",
+            15: "Tema 15 - El servicio de ropa y lencería",
+            16: "Tema 16 - La ropa limpia hospitalaria",
+        },
+    },
 }
 
 NUM_PREGUNTAS_DEFECTO = 10
 
 
 # ============================================================
-# CARGAR EL BANCO DE PREGUNTAS
+# CARGAR UN BANCO DE PREGUNTAS
 # ============================================================
 
 @st.cache_data
-def cargar_preguntas(fecha_json):
+def cargar_preguntas(ruta_json, fecha_json, numeros_tema):
 
-    if not ARCHIVO_JSON.exists():
+    ruta = Path(ruta_json)
+
+    if not ruta.exists():
         return [], (
             f"No se encuentra el archivo: "
-            f"{ARCHIVO_JSON.name}"
+            f"{ruta.name}"
         )
 
     try:
         with open(
-            ARCHIVO_JSON,
+            ruta,
             "r",
             encoding="utf-8"
         ) as f:
@@ -95,11 +123,11 @@ def cargar_preguntas(fecha_json):
         if not isinstance(pregunta, dict):
             continue
 
+        tema_valor = pregunta.get("tema", "")
+
         tema = (
-            int(pregunta.get("tema", 0))
-            if str(
-                pregunta.get("tema", "")
-            ).isdigit()
+            int(tema_valor)
+            if str(tema_valor).isdigit()
             else 0
         )
 
@@ -125,7 +153,7 @@ def cargar_preguntas(fecha_json):
                 "D",
             }
             or correcta not in opciones
-            or tema not in TEMAS
+            or tema not in numeros_tema
         ):
             continue
 
@@ -158,30 +186,17 @@ def cargar_preguntas(fecha_json):
 
 
 # ============================================================
-# CARGAR LAS PREGUNTAS
-# ============================================================
-
-fecha_json = (
-    ARCHIVO_JSON.stat().st_mtime_ns
-    if ARCHIVO_JSON.exists()
-    else 0
-)
-
-preguntas, error_carga = cargar_preguntas(
-    fecha_json
-)
-
-
-# ============================================================
 # ESTADO DE LA APLICACIÓN
 # ============================================================
 
 def inicializar_estado():
 
     valores = {
-
-        # La pantalla inicial será Teoría
+        # La aplicación comienza mostrando Teoría.
         "modo": "Teoría",
+
+        # Bloque seleccionado.
+        "bloque": "Bloque General",
 
         "preguntas_test": [],
 
@@ -193,8 +208,7 @@ def inicializar_estado():
 
         "temas_seleccionados": [],
 
-        "cantidad_preguntas":
-            NUM_PREGUNTAS_DEFECTO,
+        "cantidad_preguntas": NUM_PREGUNTAS_DEFECTO,
 
         "preguntas_utilizadas": set(),
 
@@ -208,6 +222,38 @@ def inicializar_estado():
 
 
 inicializar_estado()
+
+
+# ============================================================
+# CONFIGURACIÓN DEL BLOQUE ACTUAL
+# ============================================================
+
+bloque_actual = st.session_state["bloque"]
+
+config_bloque = BLOQUES[bloque_actual]
+
+ARCHIVO_JSON = config_bloque["archivo"]
+
+NOMBRE_BLOQUE = config_bloque["nombre"]
+
+TEMAS = config_bloque["temas"]
+
+
+# ============================================================
+# CARGAR LAS PREGUNTAS DEL BLOQUE ACTUAL
+# ============================================================
+
+fecha_json = (
+    ARCHIVO_JSON.stat().st_mtime_ns
+    if ARCHIVO_JSON.exists()
+    else 0
+)
+
+preguntas, error_carga = cargar_preguntas(
+    str(ARCHIVO_JSON),
+    fecha_json,
+    tuple(TEMAS.keys()),
+)
 
 
 # ============================================================
@@ -243,6 +289,23 @@ def reiniciar_test():
     st.session_state[
         "preguntas_utilizadas"
     ] = set()
+
+
+# ============================================================
+# CAMBIAR DE BLOQUE
+# ============================================================
+
+def cambiar_bloque(nuevo_bloque):
+
+    if nuevo_bloque == st.session_state["bloque"]:
+        return
+
+    reiniciar_test()
+
+    st.session_state["bloque"] = nuevo_bloque
+
+    # Cada bloque empieza siempre en Teoría.
+    st.session_state["modo"] = "Teoría"
 
 
 # ============================================================
@@ -339,8 +402,11 @@ st.set_page_config(
 # ============================================================
 
 st.title(
-    "📚 Oposiciones: Ayudante de Servicios "
-    "— Tests bloque específico"
+    "📚 Oposiciones: Ayudante de Servicios"
+)
+
+st.caption(
+    f"{NOMBRE_BLOQUE} — Tests"
 )
 
 
@@ -369,6 +435,35 @@ if error_carga:
 with st.sidebar:
 
     st.header("Opciones")
+
+    # --------------------------------------------------------
+    # SELECCIÓN DEL BLOQUE
+    # --------------------------------------------------------
+
+    bloque_seleccionado = st.selectbox(
+        "Bloque",
+        list(BLOQUES.keys()),
+        index=list(BLOQUES.keys()).index(
+            st.session_state["bloque"]
+        ),
+    )
+
+    if (
+        bloque_seleccionado
+        != st.session_state["bloque"]
+    ):
+
+        cambiar_bloque(
+            bloque_seleccionado
+        )
+
+        st.rerun()
+
+    st.divider()
+
+    # --------------------------------------------------------
+    # SELECCIÓN DEL MODO
+    # --------------------------------------------------------
 
     modo = st.radio(
         "Vista",
@@ -420,7 +515,7 @@ with st.sidebar:
 
         reiniciar_test()
 
-        # Al reiniciar volvemos siempre a Teoría
+        # Al reiniciar volvemos siempre a Teoría.
         st.session_state["modo"] = "Teoría"
 
         st.rerun()
@@ -432,7 +527,9 @@ with st.sidebar:
 
 def mostrar_test():
 
-    st.header("📝 Test")
+    st.header(
+        f"📝 Test — {NOMBRE_BLOQUE}"
+    )
 
     preguntas_test = (
         st.session_state[
@@ -487,6 +584,7 @@ def mostrar_test():
 
             key=(
                 f"respuesta_"
+                f"{st.session_state['bloque']}_"
                 f"{pregunta['id']}_"
                 f"{indice}"
             ),
@@ -778,8 +876,7 @@ def mostrar_test():
 
                 reiniciar_test()
 
-                # La pantalla de inicio
-                # es siempre Teoría.
+                # La pantalla de inicio es Teoría.
                 st.session_state[
                     "modo"
                 ] = "Teoría"
@@ -817,9 +914,9 @@ if st.session_state[
     )
 
     st.write(
-        "Selecciona un tema para "
-        "hacer un test exclusivamente "
-        "con sus preguntas."
+        f"Estás en el **{NOMBRE_BLOQUE}**. "
+        "Selecciona un tema para hacer "
+        "un test exclusivamente con sus preguntas."
     )
 
 
@@ -877,6 +974,7 @@ if st.session_state[
 
                     key=(
                         f"cantidad_teoria_"
+                        f"{st.session_state['bloque']}_"
                         f"{numero_tema}"
                     ),
                 )
@@ -893,6 +991,7 @@ if st.session_state[
 
                 key=(
                     f"test_teoria_"
+                    f"{st.session_state['bloque']}_"
                     f"{numero_tema}"
                 ),
             ):
@@ -985,9 +1084,9 @@ if st.session_state[
         )
 
         st.write(
-            "Selecciona uno o varios "
-            "temas y genera un "
-            "test aleatorio."
+            f"Estás en el **{NOMBRE_BLOQUE}**. "
+            "Selecciona uno o varios temas "
+            "y genera un test aleatorio."
         )
 
         st.write(
@@ -1014,6 +1113,7 @@ if st.session_state[
 
                     key=(
                         f"tema_practica_"
+                        f"{st.session_state['bloque']}_"
                         f"{numero_tema}"
                     ),
                 )
@@ -1064,6 +1164,11 @@ if st.session_state[
                     ),
 
                     step=1,
+
+                    key=(
+                        f"cantidad_practica_"
+                        f"{st.session_state['bloque']}"
+                    ),
                 )
             )
 
@@ -1082,6 +1187,11 @@ if st.session_state[
                 step=1,
 
                 disabled=True,
+
+                key=(
+                    f"cantidad_practica_vacia_"
+                    f"{st.session_state['bloque']}"
+                ),
             )
 
             cantidad = 1
@@ -1096,6 +1206,7 @@ if st.session_state[
             use_container_width=True,
 
             disabled=not disponibles,
+
         ):
 
             st.session_state[
