@@ -1,0 +1,4807 @@
+{
+  "bloque": "Específico",
+  "descripcion": "Banco de 400 preguntas basado exclusivamente en los Temas 1 a 6 facilitados por la usuaria.",
+  "total_preguntas": 400,
+  "preguntas": [
+    {
+      "id": 1,
+      "tema": 1,
+      "pregunta": "Según el temario, ¿qué se indica sobre La Constitución Española?",
+      "opciones": {
+        "A": "La norma suprema de un Estado",
+        "B": "Un reglamento sanitario",
+        "C": "Una norma municipal",
+        "D": "Un convenio internacional"
+      },
+      "respuesta_correcta": "A"
+    },
+    {
+      "id": 2,
+      "tema": 1,
+      "pregunta": "De acuerdo con el tema, ¿cuál es la opción correcta sobre La Constitución Española?",
+      "opciones": {
+        "A": "30 de diciembre de 1978",
+        "B": "12 de octubre de 1978",
+        "C": "6 de diciembre de 1978",
+        "D": "6 de diciembre de 1981"
+      },
+      "respuesta_correcta": "C"
+    },
+    {
+      "id": 3,
+      "tema": 1,
+      "pregunta": "Respecto a La Constitución Española, ¿cuál es la afirmación correcta según el temario?",
+      "opciones": {
+        "A": "179",
+        "B": "159",
+        "C": "169",
+        "D": "149"
+      },
+      "respuesta_correcta": "C"
+    },
+    {
+      "id": 4,
+      "tema": 1,
+      "pregunta": "Indica la opción correcta sobre La Constitución según el material de estudio.",
+      "opciones": {
+        "A": "De consenso",
+        "B": "Exclusivamente autonómica",
+        "C": "De carácter provisional",
+        "D": "De carácter municipal"
+      },
+      "respuesta_correcta": "A"
+    },
+    {
+      "id": 5,
+      "tema": 1,
+      "pregunta": "Según el temario, ¿qué se indica sobre La Constitución?",
+      "opciones": {
+        "A": "Solo la actividad sindical",
+        "B": "Solo la autonomía municipal",
+        "C": "La Democracia y el Estado de Derecho",
+        "D": "Solo la actividad económica"
+      },
+      "respuesta_correcta": "C"
+    },
+    {
+      "id": 6,
+      "tema": 1,
+      "pregunta": "De acuerdo con el tema, ¿cuál es la opción correcta sobre La Constitución?",
+      "opciones": {
+        "A": "Solo los derechos laborales",
+        "B": "Solo los derechos sanitarios",
+        "C": "El ejercicio de los derechos fundamentales",
+        "D": "Solo los derechos económicos"
+      },
+      "respuesta_correcta": "C"
+    },
+    {
+      "id": 7,
+      "tema": 1,
+      "pregunta": "Respecto a La Constitución, ¿cuál es la afirmación correcta según el temario?",
+      "opciones": {
+        "A": "La cultura, las tradiciones y las lenguas de España",
+        "B": "Solo las lenguas cooficiales",
+        "C": "Solo el castellano",
+        "D": "Solo las tradiciones asturianas"
+      },
+      "respuesta_correcta": "A"
+    },
+    {
+      "id": 8,
+      "tema": 1,
+      "pregunta": "Indica la opción correcta sobre La Constitución según el material de estudio.",
+      "opciones": {
+        "A": "1 Preámbulo",
+        "B": "2 Preámbulos",
+        "C": "10 Preámbulos",
+        "D": "1 Disposición Final"
+      },
+      "respuesta_correcta": "A"
+    },
+    {
+      "id": 9,
+      "tema": 1,
+      "pregunta": "Según el temario, ¿qué se indica sobre La Constitución?",
+      "opciones": {
+        "A": "10 Títulos",
+        "B": "12 Títulos",
+        "C": "9 Títulos",
+        "D": "11 Títulos"
+      },
+      "respuesta_correcta": "D"
+    },
+    {
+      "id": 10,
+      "tema": 1,
+      "pregunta": "De acuerdo con el tema, ¿cuál es la opción correcta sobre La Constitución contiene 4 Disposiciones Adicionales.?",
+      "opciones": {
+        "A": "9",
+        "B": "4",
+        "C": "3",
+        "D": "5"
+      },
+      "respuesta_correcta": "B"
+    },
+    {
+      "id": 11,
+      "tema": 1,
+      "pregunta": "Respecto a La Constitución contiene 9 Disposiciones Transitorias., ¿cuál es la afirmación correcta según el temario?",
+      "opciones": {
+        "A": "8",
+        "B": "9",
+        "C": "10",
+        "D": "4"
+      },
+      "respuesta_correcta": "B"
+    },
+    {
+      "id": 12,
+      "tema": 1,
+      "pregunta": "Indica la opción correcta sobre La Constitución contiene 1 Disposición Derogatoria. según el material de estudio.",
+      "opciones": {
+        "A": "9",
+        "B": "4",
+        "C": "1",
+        "D": "2"
+      },
+      "respuesta_correcta": "C"
+    },
+    {
+      "id": 13,
+      "tema": 1,
+      "pregunta": "Según el temario, ¿qué se indica sobre La Constitución contiene 1 Disposición Final.?",
+      "opciones": {
+        "A": "4",
+        "B": "1",
+        "C": "2",
+        "D": "10"
+      },
+      "respuesta_correcta": "B"
+    },
+    {
+      "id": 14,
+      "tema": 1,
+      "pregunta": "De acuerdo con el tema, ¿cuál es la opción correcta sobre La?",
+      "opciones": {
+        "A": "La Monarquía Parlamentaria",
+        "B": "La Monarquía Absoluta",
+        "C": "La República Federal",
+        "D": "La República Parlamentaria"
+      },
+      "respuesta_correcta": "A"
+    },
+    {
+      "id": 15,
+      "tema": 1,
+      "pregunta": "Respecto a El Jefe del Estado, ¿cuál es la afirmación correcta según el temario?",
+      "opciones": {
+        "A": "El Presidente del Congreso",
+        "B": "El Senado",
+        "C": "El Rey",
+        "D": "El Presidente del Gobierno"
+      },
+      "respuesta_correcta": "C"
+    },
+    {
+      "id": 16,
+      "tema": 1,
+      "pregunta": "Indica la opción correcta sobre Las Cortes Generales según el material de estudio.",
+      "opciones": {
+        "A": "El Senado y el Gobierno",
+        "B": "El Gobierno y el Senado",
+        "C": "El Congreso y el Tribunal Supremo",
+        "D": "El Congreso de los Diputados y el Senado"
+      },
+      "respuesta_correcta": "D"
+    },
+    {
+      "id": 17,
+      "tema": 1,
+      "pregunta": "Según el temario, ¿qué se indica sobre La capital del Estado?",
+      "opciones": {
+        "A": "Oviedo",
+        "B": "Barcelona",
+        "C": "Sevilla",
+        "D": "Madrid"
+      },
+      "respuesta_correcta": "D"
+    },
+    {
+      "id": 18,
+      "tema": 1,
+      "pregunta": "De acuerdo con el tema, ¿cuál es la opción correcta sobre El castellano?",
+      "opciones": {
+        "A": "El castellano",
+        "B": "El gallego",
+        "C": "El catalán",
+        "D": "El bable"
+      },
+      "respuesta_correcta": "A"
+    },
+    {
+      "id": 19,
+      "tema": 1,
+      "pregunta": "Respecto a Las demás lenguas españolas, ¿cuál es la afirmación correcta según el temario?",
+      "opciones": {
+        "A": "Solo en el Senado",
+        "B": "Solo en Madrid",
+        "C": "En sus respectivas Comunidades Autónomas",
+        "D": "En todos los municipios"
+      },
+      "respuesta_correcta": "C"
+    },
+    {
+      "id": 20,
+      "tema": 1,
+      "pregunta": "Indica la opción correcta sobre Las Fuerzas Armadas según el material de estudio.",
+      "opciones": {
+        "A": "Garantizar la soberanía e independencia y defender el territorio",
+        "B": "Dirigir el Gobierno",
+        "C": "Controlar los tribunales",
+        "D": "Aprobar leyes"
+      },
+      "respuesta_correcta": "A"
+    },
+    {
+      "id": 21,
+      "tema": 1,
+      "pregunta": "Según el temario, ¿qué se indica sobre Existen tres poderes públicos: legislativo?",
+      "opciones": {
+        "A": "Cinco",
+        "B": "Tres",
+        "C": "Cuatro",
+        "D": "Dos"
+      },
+      "respuesta_correcta": "B"
+    },
+    {
+      "id": 22,
+      "tema": 1,
+      "pregunta": "De acuerdo con el tema, ¿cuál es la opción correcta sobre El poder legislativo hace las leyes y en España?",
+      "opciones": {
+        "A": "Las Fuerzas Armadas",
+        "B": "Las Cortes Generales",
+        "C": "Los jueces y tribunales",
+        "D": "El Gobierno"
+      },
+      "respuesta_correcta": "B"
+    },
+    {
+      "id": 23,
+      "tema": 1,
+      "pregunta": "Respecto a El poder ejecutivo hace cumplir las leyes y, ¿cuál es la afirmación correcta según el temario?",
+      "opciones": {
+        "A": "El Senado",
+        "B": "El Gobierno",
+        "C": "Las Cortes Generales",
+        "D": "Los jueces y tribunales"
+      },
+      "respuesta_correcta": "B"
+    },
+    {
+      "id": 24,
+      "tema": 1,
+      "pregunta": "Indica la opción correcta sobre El poder judicial controla que las leyes se cumplan y según el material de estudio.",
+      "opciones": {
+        "A": "El Gobierno",
+        "B": "Los jueces y tribunales",
+        "C": "Los sindicatos",
+        "D": "Las Cortes Generales"
+      },
+      "respuesta_correcta": "B"
+    },
+    {
+      "id": 25,
+      "tema": 1,
+      "pregunta": "Según el temario, ¿qué se indica sobre El Título I?",
+      "opciones": {
+        "A": "3 capítulos",
+        "B": "5 capítulos",
+        "C": "6 capítulos",
+        "D": "4 capítulos"
+      },
+      "respuesta_correcta": "B"
+    },
+    {
+      "id": 26,
+      "tema": 1,
+      "pregunta": "De acuerdo con el tema, ¿cuál es la opción correcta sobre El Capítulo 1 del Título I se refiere a españoles y extranjeros.?",
+      "opciones": {
+        "A": "Españoles y extranjeros",
+        "B": "Derechos y libertades",
+        "C": "Garantías de las libertades",
+        "D": "Suspensión de derechos"
+      },
+      "respuesta_correcta": "A"
+    },
+    {
+      "id": 27,
+      "tema": 1,
+      "pregunta": "Respecto a El Capítulo 2 del Título I se refiere a derechos y libertades., ¿cuál es la afirmación correcta según el temario?",
+      "opciones": {
+        "A": "Suspensión de derechos",
+        "B": "Españoles y extranjeros",
+        "C": "Principios rectores",
+        "D": "Derechos y libertades"
+      },
+      "respuesta_correcta": "D"
+    },
+    {
+      "id": 28,
+      "tema": 1,
+      "pregunta": "Indica la opción correcta sobre El Capítulo 3 del Título I contiene los principios rectores de la política social y económica. según el material de estudio.",
+      "opciones": {
+        "A": "Garantías de las libertades",
+        "B": "Derechos y libertades",
+        "C": "Españoles y extranjeros",
+        "D": "Principios rectores de la política social y económica"
+      },
+      "respuesta_correcta": "D"
+    },
+    {
+      "id": 29,
+      "tema": 1,
+      "pregunta": "Según el temario, ¿qué se indica sobre El Capítulo 4 del Título I trata de las garantías de las libertades y los derechos fundamentales.?",
+      "opciones": {
+        "A": "Españoles y extranjeros",
+        "B": "Garantías de las libertades y los derechos fundamentales",
+        "C": "Suspensión de derechos",
+        "D": "Principios rectores"
+      },
+      "respuesta_correcta": "B"
+    },
+    {
+      "id": 30,
+      "tema": 1,
+      "pregunta": "De acuerdo con el tema, ¿cuál es la opción correcta sobre El Capítulo 5 del Título I trata de la suspensión de derechos y libertades.?",
+      "opciones": {
+        "A": "Organización territorial",
+        "B": "Garantías",
+        "C": "Derechos y libertades",
+        "D": "Suspensión de derechos y libertades"
+      },
+      "respuesta_correcta": "D"
+    },
+    {
+      "id": 31,
+      "tema": 1,
+      "pregunta": "Respecto a El derecho a la protección de la salud se recoge en el artículo 43., ¿cuál es la afirmación correcta según el temario?",
+      "opciones": {
+        "A": "Artículo 53",
+        "B": "Artículo 41",
+        "C": "Artículo 14",
+        "D": "Artículo 43"
+      },
+      "respuesta_correcta": "D"
+    },
+    {
+      "id": 32,
+      "tema": 1,
+      "pregunta": "Indica la opción correcta sobre El artículo 43.1 según el material de estudio.",
+      "opciones": {
+        "A": "El derecho a la vivienda",
+        "B": "El derecho de reunión",
+        "C": "El derecho a la protección de la salud",
+        "D": "El derecho a la educación"
+      },
+      "respuesta_correcta": "C"
+    },
+    {
+      "id": 33,
+      "tema": 1,
+      "pregunta": "Según el temario, ¿qué se indica sobre Compete a los poderes públicos organizar y tutelar la salud pública.?",
+      "opciones": {
+        "A": "A los sindicatos",
+        "B": "A las Cortes exclusivamente",
+        "C": "A los municipios exclusivamente",
+        "D": "A los poderes públicos"
+      },
+      "respuesta_correcta": "D"
+    },
+    {
+      "id": 34,
+      "tema": 1,
+      "pregunta": "De acuerdo con el tema, ¿cuál es la opción correcta sobre La salud pública se organiza y tutela mediante medidas preventivas y prestaciones y servicios necesarios.?",
+      "opciones": {
+        "A": "Solo actividad deportiva",
+        "B": "Solo campañas publicitarias",
+        "C": "Medidas preventivas y prestaciones y servicios necesarios",
+        "D": "Solo asistencia hospitalaria"
+      },
+      "respuesta_correcta": "C"
+    },
+    {
+      "id": 35,
+      "tema": 1,
+      "pregunta": "Respecto a La ley establecerá los derechos y deberes de todos respecto a la salud., ¿cuál es la afirmación correcta según el temario?",
+      "opciones": {
+        "A": "Los municipios",
+        "B": "La ley",
+        "C": "El Rey",
+        "D": "Las asociaciones"
+      },
+      "respuesta_correcta": "B"
+    },
+    {
+      "id": 36,
+      "tema": 1,
+      "pregunta": "Indica la opción correcta sobre Los poderes públicos fomentarán la educación sanitaria. según el material de estudio.",
+      "opciones": {
+        "A": "Solo la educación universitaria",
+        "B": "Solo la formación profesional",
+        "C": "Solo la educación jurídica",
+        "D": "La educación sanitaria"
+      },
+      "respuesta_correcta": "D"
+    },
+    {
+      "id": 37,
+      "tema": 1,
+      "pregunta": "Según el temario, ¿qué se indica sobre Los poderes públicos fomentarán la educación física y el deporte.?",
+      "opciones": {
+        "A": "La educación física y el deporte",
+        "B": "Solo la actividad sindical",
+        "C": "Solo la educación jurídica",
+        "D": "Solo la formación sanitaria"
+      },
+      "respuesta_correcta": "A"
+    },
+    {
+      "id": 38,
+      "tema": 1,
+      "pregunta": "De acuerdo con el tema, ¿cuál es la opción correcta sobre Los poderes públicos facilitarán la adecuada utilización del ocio.?",
+      "opciones": {
+        "A": "La organización judicial",
+        "B": "La adecuada utilización del ocio",
+        "C": "La financiación privada",
+        "D": "La actividad legislativa"
+      },
+      "respuesta_correcta": "B"
+    },
+    {
+      "id": 39,
+      "tema": 1,
+      "pregunta": "Respecto a El artículo 43, ¿cuál es la afirmación correcta según el temario?",
+      "opciones": {
+        "A": "Capítulo 5 del Título I",
+        "B": "Capítulo 3 del Título I",
+        "C": "Capítulo 2 del Título I",
+        "D": "Capítulo 1 del Título I"
+      },
+      "respuesta_correcta": "B"
+    },
+    {
+      "id": 40,
+      "tema": 1,
+      "pregunta": "Indica la opción correcta sobre El artículo 43 según el material de estudio.",
+      "opciones": {
+        "A": "Los derechos fundamentales",
+        "B": "Los principios rectores de la política social y económica",
+        "C": "La organización territorial",
+        "D": "Las garantías constitucionales"
+      },
+      "respuesta_correcta": "B"
+    },
+    {
+      "id": 41,
+      "tema": 1,
+      "pregunta": "Según el temario, ¿qué se indica sobre El derecho a la salud no se configura como un derecho fundamental.?",
+      "opciones": {
+        "A": "Es el principal derecho fundamental",
+        "B": "No se configura como un derecho fundamental",
+        "C": "Es un derecho exclusivo de funcionarios",
+        "D": "Solo es un derecho municipal"
+      },
+      "respuesta_correcta": "B"
+    },
+    {
+      "id": 42,
+      "tema": 1,
+      "pregunta": "De acuerdo con el tema, ¿cuál es la opción correcta sobre Las garantías del derecho a la salud se recogen en el artículo 53.?",
+      "opciones": {
+        "A": "Artículo 53",
+        "B": "Artículo 14",
+        "C": "Artículo 43",
+        "D": "Artículo 1"
+      },
+      "respuesta_correcta": "A"
+    },
+    {
+      "id": 43,
+      "tema": 1,
+      "pregunta": "Respecto a El derecho a la salud podrá alegarse ante la justicia de acuerdo con las leyes que lo desarrollen., ¿cuál es la afirmación correcta según el temario?",
+      "opciones": {
+        "A": "De acuerdo con las leyes que lo desarrollen",
+        "B": "Sin ninguna condición",
+        "C": "Solo mediante referéndum",
+        "D": "Solo ante el Senado"
+      },
+      "respuesta_correcta": "A"
+    },
+    {
+      "id": 44,
+      "tema": 1,
+      "pregunta": "Indica la opción correcta sobre La ley que desarrolla el derecho a la salud según el material de estudio.",
+      "opciones": {
+        "A": "La Ley 2/2011",
+        "B": "La Ley 55/2003",
+        "C": "La Ley 14/1986 General de Sanidad",
+        "D": "La Ley 7/2019"
+      },
+      "respuesta_correcta": "C"
+    },
+    {
+      "id": 45,
+      "tema": 1,
+      "pregunta": "Según el temario, ¿qué se indica sobre El derecho a la salud se considera universal en el material.?",
+      "opciones": {
+        "A": "Exclusivo de españoles",
+        "B": "Universal",
+        "C": "Exclusivo de funcionarios",
+        "D": "Exclusivo de trabajadores"
+      },
+      "respuesta_correcta": "B"
+    },
+    {
+      "id": 46,
+      "tema": 1,
+      "pregunta": "De acuerdo con el tema, ¿cuál es la opción correcta sobre Un referéndum?",
+      "opciones": {
+        "A": "Una votación para expresar si se está o no de acuerdo",
+        "B": "Una elección de jueces",
+        "C": "Un procedimiento judicial",
+        "D": "Una reunión parlamentaria"
+      },
+      "respuesta_correcta": "A"
+    },
+    {
+      "id": 47,
+      "tema": 1,
+      "pregunta": "Respecto a Los derechos fundamentales, ¿cuál es la afirmación correcta según el temario?",
+      "opciones": {
+        "A": "Derechos exclusivos de funcionarios",
+        "B": "Derechos solo económicos",
+        "C": "Derechos que tienen todas las personas y que nadie puede quitarles",
+        "D": "Derechos solo sanitarios"
+      },
+      "respuesta_correcta": "C"
+    },
+    {
+      "id": 48,
+      "tema": 1,
+      "pregunta": "Indica la opción correcta sobre Los deberes según el material de estudio.",
+      "opciones": {
+        "A": "Derechos fundamentales",
+        "B": "Obligaciones que las personas deben cumplir",
+        "C": "Opciones voluntarias",
+        "D": "Servicios públicos"
+      },
+      "respuesta_correcta": "B"
+    },
+    {
+      "id": 49,
+      "tema": 1,
+      "pregunta": "Según el temario, ¿qué se indica sobre Las disposiciones?",
+      "opciones": {
+        "A": "Leyes autonómicas",
+        "B": "Capítulos del Título I",
+        "C": "Reglamentos municipales",
+        "D": "Aclaraciones a cuestiones concretas al final de la Constitución"
+      },
+      "respuesta_correcta": "D"
+    },
+    {
+      "id": 50,
+      "tema": 1,
+      "pregunta": "De acuerdo con el tema, ¿cuál es la opción correcta sobre Las leyes de desarrollo explican en detalle el contenido general de la Constitución.?",
+      "opciones": {
+        "A": "Sustituyen la Constitución",
+        "B": "Explican en detalle el contenido general de la Constitución",
+        "C": "Solo regulan municipios",
+        "D": "Solo regulan sindicatos"
+      },
+      "respuesta_correcta": "B"
+    },
+    {
+      "id": 51,
+      "tema": 2,
+      "pregunta": "Respecto a La Ley 14/1986 General de Sanidad desarrolla el artículo 43 de la Constitución., ¿cuál es la afirmación correcta según el temario?",
+      "opciones": {
+        "A": "La Ley 14/1986 General de Sanidad",
+        "B": "La Ley 7/2019",
+        "C": "La Ley 2/2011",
+        "D": "La Ley 55/2003"
+      },
+      "respuesta_correcta": "A"
+    },
+    {
+      "id": 52,
+      "tema": 2,
+      "pregunta": "Indica la opción correcta sobre El derecho a la protección de la salud en la Ley General de Sanidad según el material de estudio.",
+      "opciones": {
+        "A": "Solo residentes asturianos",
+        "B": "Solo funcionarios",
+        "C": "Solo mayores de edad",
+        "D": "Todos los españoles"
+      },
+      "respuesta_correcta": "D"
+    },
+    {
+      "id": 53,
+      "tema": 2,
+      "pregunta": "Según el temario, ¿qué se indica sobre También?",
+      "opciones": {
+        "A": "Solo extranjeros no residentes",
+        "B": "Solo ciudadanos de la UE",
+        "C": "Solo turistas",
+        "D": "Los extranjeros residentes en España"
+      },
+      "respuesta_correcta": "D"
+    },
+    {
+      "id": 54,
+      "tema": 2,
+      "pregunta": "De acuerdo con el tema, ¿cuál es la opción correcta sobre Los extranjeros no residentes en España?",
+      "opciones": {
+        "A": "Solo según ordenanzas municipales",
+        "B": "Solo según el Estatuto de Asturias",
+        "C": "Según otras leyes o Convenios Internacionales",
+        "D": "Nunca"
+      },
+      "respuesta_correcta": "C"
+    },
+    {
+      "id": 55,
+      "tema": 2,
+      "pregunta": "Respecto a La Ley General de Sanidad, ¿cuál es la afirmación correcta según el temario?",
+      "opciones": {
+        "A": "Exclusivamente autonómica",
+        "B": "Reglamentaria",
+        "C": "Municipal",
+        "D": "Básica"
+      },
+      "respuesta_correcta": "D"
+    },
+    {
+      "id": 56,
+      "tema": 2,
+      "pregunta": "Indica la opción correcta sobre Las Comunidades Autónomas según el material de estudio.",
+      "opciones": {
+        "A": "Derogarla unilateralmente",
+        "B": "Desarrollarla y ampliarla",
+        "C": "Ignorarla",
+        "D": "Contradecirla"
+      },
+      "respuesta_correcta": "B"
+    },
+    {
+      "id": 57,
+      "tema": 2,
+      "pregunta": "Según el temario, ¿qué se indica sobre Las leyes autonómicas no?",
+      "opciones": {
+        "A": "Pueden derogarla",
+        "B": "Pueden contradecirla libremente",
+        "C": "No pueden ir en contra",
+        "D": "Solo pueden contradecirla en salud pública"
+      },
+      "respuesta_correcta": "C"
+    },
+    {
+      "id": 58,
+      "tema": 2,
+      "pregunta": "De acuerdo con el tema, ¿cuál es la opción correcta sobre El Sistema Nacional de Salud?",
+      "opciones": {
+        "A": "Solo hospitales públicos",
+        "B": "Los Servicios de Salud del Estado y de las Comunidades Autónomas",
+        "C": "Solo servicios autonómicos",
+        "D": "Solo servicios municipales"
+      },
+      "respuesta_correcta": "B"
+    },
+    {
+      "id": 59,
+      "tema": 2,
+      "pregunta": "Respecto a La Ley General de Sanidad dice qué prestaciones sanitarias, ¿cuál es la afirmación correcta según el temario?",
+      "opciones": {
+        "A": "La Ley General de Sanidad",
+        "B": "Los sindicatos",
+        "C": "Los ayuntamientos",
+        "D": "El Consejo de Salud de Área"
+      },
+      "respuesta_correcta": "A"
+    },
+    {
+      "id": 60,
+      "tema": 2,
+      "pregunta": "Indica la opción correcta sobre El Sistema Nacional de Salud según el material de estudio.",
+      "opciones": {
+        "A": "Solo los hospitales privados",
+        "B": "Solo las diputaciones",
+        "C": "Solo los sindicatos",
+        "D": "El Sistema Nacional de Salud"
+      },
+      "respuesta_correcta": "D"
+    },
+    {
+      "id": 61,
+      "tema": 2,
+      "pregunta": "Según el temario, ¿qué se indica sobre El Sistema Nacional de Salud?",
+      "opciones": {
+        "A": "A toda la población",
+        "B": "Solo a españoles nacidos en España",
+        "C": "Solo a funcionarios",
+        "D": "Solo a mayores de edad"
+      },
+      "respuesta_correcta": "A"
+    },
+    {
+      "id": 62,
+      "tema": 2,
+      "pregunta": "De acuerdo con el tema, ¿cuál es la opción correcta sobre El Sistema Nacional de Salud?",
+      "opciones": {
+        "A": "Prevenir las enfermedades",
+        "B": "Solo formar trabajadores",
+        "C": "Solo financiar hospitales",
+        "D": "Solo realizar inspecciones"
+      },
+      "respuesta_correcta": "A"
+    },
+    {
+      "id": 63,
+      "tema": 2,
+      "pregunta": "Respecto a El Sistema Nacional de Salud también, ¿cuál es la afirmación correcta según el temario?",
+      "opciones": {
+        "A": "Curar y rehabilitar",
+        "B": "Solo administrar",
+        "C": "Solo investigar",
+        "D": "Solo prevenir"
+      },
+      "respuesta_correcta": "A"
+    },
+    {
+      "id": 64,
+      "tema": 2,
+      "pregunta": "Indica la opción correcta sobre Todos los recursos públicos trabajan de según el material de estudio.",
+      "opciones": {
+        "A": "De forma coordinada",
+        "B": "Solo de forma privada",
+        "C": "De forma independiente",
+        "D": "Sin planificación"
+      },
+      "respuesta_correcta": "A"
+    },
+    {
+      "id": 65,
+      "tema": 2,
+      "pregunta": "Según el temario, ¿qué se indica sobre La financiación del Sistema Nacional de Salud?",
+      "opciones": {
+        "A": "Exclusivamente empresarial",
+        "B": "Pública",
+        "C": "Privada",
+        "D": "Voluntaria"
+      },
+      "respuesta_correcta": "B"
+    },
+    {
+      "id": 66,
+      "tema": 2,
+      "pregunta": "De acuerdo con el tema, ¿cuál es la opción correcta sobre Cada Comunidad Autónoma?",
+      "opciones": {
+        "A": "Un Servicio de Salud",
+        "B": "Dos Servicios de Salud obligatorios",
+        "C": "Solo hospitales",
+        "D": "Solo consultorios"
+      },
+      "respuesta_correcta": "A"
+    },
+    {
+      "id": 67,
+      "tema": 2,
+      "pregunta": "Respecto a El Servicio de Salud autonómico, ¿cuál es la afirmación correcta según el temario?",
+      "opciones": {
+        "A": "Solo sindicatos",
+        "B": "Solo centros estatales",
+        "C": "Centros y servicios de la Comunidad Autónoma",
+        "D": "Solo empresas privadas"
+      },
+      "respuesta_correcta": "C"
+    },
+    {
+      "id": 68,
+      "tema": 2,
+      "pregunta": "Indica la opción correcta sobre También según el material de estudio.",
+      "opciones": {
+        "A": "Solo universidades",
+        "B": "Diputaciones Provinciales y Ayuntamientos",
+        "C": "Solo sindicatos",
+        "D": "Solo empresas"
+      },
+      "respuesta_correcta": "B"
+    },
+    {
+      "id": 69,
+      "tema": 2,
+      "pregunta": "Según el temario, ¿qué se indica sobre Los centros de Diputaciones y Ayuntamientos siguen siendo propiedad de estas entidades.?",
+      "opciones": {
+        "A": "De la Diputación o Ayuntamiento",
+        "B": "Del Estado",
+        "C": "De los sindicatos",
+        "D": "Del SESPA siempre"
+      },
+      "respuesta_correcta": "A"
+    },
+    {
+      "id": 70,
+      "tema": 2,
+      "pregunta": "De acuerdo con el tema, ¿cuál es la opción correcta sobre La planificación de los Servicios de Salud autonómicos?",
+      "opciones": {
+        "A": "Privatizar hospitales",
+        "B": "No desperdiciar recursos económicos",
+        "C": "Aumentar impuestos",
+        "D": "Eliminar la atención primaria"
+      },
+      "respuesta_correcta": "B"
+    },
+    {
+      "id": 71,
+      "tema": 2,
+      "pregunta": "Respecto a El territorio autonómico, ¿cuál es la afirmación correcta según el temario?",
+      "opciones": {
+        "A": "Áreas de Salud",
+        "B": "Comarcas fiscales",
+        "C": "Distritos judiciales",
+        "D": "Provincias sanitarias"
+      },
+      "respuesta_correcta": "A"
+    },
+    {
+      "id": 72,
+      "tema": 2,
+      "pregunta": "Indica la opción correcta sobre Cada Comunidad Autónoma según el material de estudio.",
+      "opciones": {
+        "A": "Un Consejo de Gobierno sanitario obligatorio",
+        "B": "Un Consejo de Salud",
+        "C": "Un Tribunal sanitario",
+        "D": "Un Senado sanitario"
+      },
+      "respuesta_correcta": "B"
+    },
+    {
+      "id": 73,
+      "tema": 2,
+      "pregunta": "Según el temario, ¿qué se indica sobre En el Consejo de Salud?",
+      "opciones": {
+        "A": "Solo empresas",
+        "B": "Solo municipios",
+        "C": "Ciudadanos, sindicatos y organizaciones empresariales",
+        "D": "Solo médicos"
+      },
+      "respuesta_correcta": "C"
+    },
+    {
+      "id": 74,
+      "tema": 2,
+      "pregunta": "De acuerdo con el tema, ¿cuál es la opción correcta sobre Cada Comunidad Autónoma?",
+      "opciones": {
+        "A": "Un Plan Electoral",
+        "B": "Un Plan de Salud",
+        "C": "Un Plan Municipal",
+        "D": "Un Plan Judicial"
+      },
+      "respuesta_correcta": "B"
+    },
+    {
+      "id": 75,
+      "tema": 2,
+      "pregunta": "Respecto a El Plan de Salud recoge las acciones sanitarias necesarias para cumplir objetivos de los Servicios de Salud., ¿cuál es la afirmación correcta según el temario?",
+      "opciones": {
+        "A": "Solo presupuestos",
+        "B": "Las acciones sanitarias necesarias para cumplir sus objetivos",
+        "C": "Solo campañas deportivas",
+        "D": "Solo plantillas"
+      },
+      "respuesta_correcta": "B"
+    },
+    {
+      "id": 76,
+      "tema": 2,
+      "pregunta": "Indica la opción correcta sobre El Plan de Salud autonómico según el material de estudio.",
+      "opciones": {
+        "A": "El plan de un municipio",
+        "B": "El plan de un hospital",
+        "C": "La suma de los Planes de Salud de todas las Áreas",
+        "D": "El presupuesto estatal"
+      },
+      "respuesta_correcta": "C"
+    },
+    {
+      "id": 77,
+      "tema": 2,
+      "pregunta": "Según el temario, ¿qué se indica sobre Asturias?",
+      "opciones": {
+        "A": "Cuatro",
+        "B": "Dos",
+        "C": "Una",
+        "D": "Tres"
+      },
+      "respuesta_correcta": "C"
+    },
+    {
+      "id": 78,
+      "tema": 2,
+      "pregunta": "De acuerdo con el tema, ¿cuál es la opción correcta sobre En Asturias no?",
+      "opciones": {
+        "A": "No hay Diputación Provincial",
+        "B": "Hay tres Diputaciones",
+        "C": "Hay dos Diputaciones",
+        "D": "Hay una Diputación"
+      },
+      "respuesta_correcta": "A"
+    },
+    {
+      "id": 79,
+      "tema": 2,
+      "pregunta": "Respecto a Las Áreas de Salud gestionan los centros de su territorio y las prestaciones sanitarias de su zona., ¿cuál es la afirmación correcta según el temario?",
+      "opciones": {
+        "A": "Solo las elecciones",
+        "B": "Solo los sindicatos",
+        "C": "Solo los presupuestos",
+        "D": "Los centros y las prestaciones sanitarias de su zona"
+      },
+      "respuesta_correcta": "D"
+    },
+    {
+      "id": 80,
+      "tema": 2,
+      "pregunta": "Indica la opción correcta sobre La Atención Primaria según el material de estudio.",
+      "opciones": {
+        "A": "Promoción, prevención, curación y rehabilitación",
+        "B": "Solo prevención",
+        "C": "Solo curación",
+        "D": "Solo rehabilitación"
+      },
+      "respuesta_correcta": "A"
+    },
+    {
+      "id": 81,
+      "tema": 2,
+      "pregunta": "Según el temario, ¿qué se indica sobre La Atención Primaria se presta en los Centros de Salud.?",
+      "opciones": {
+        "A": "Solo tribunales",
+        "B": "Solo centros privados",
+        "C": "Centros de Salud",
+        "D": "Solo hospitales"
+      },
+      "respuesta_correcta": "C"
+    },
+    {
+      "id": 82,
+      "tema": 2,
+      "pregunta": "De acuerdo con el tema, ¿cuál es la opción correcta sobre La Atención Especializada da una atención más compleja.?",
+      "opciones": {
+        "A": "Solo administrativa",
+        "B": "Más básica",
+        "C": "Solo preventiva",
+        "D": "Más compleja"
+      },
+      "respuesta_correcta": "D"
+    },
+    {
+      "id": 83,
+      "tema": 2,
+      "pregunta": "Respecto a La Atención Especializada se presta en hospitales y Centros de Especialidades., ¿cuál es la afirmación correcta según el temario?",
+      "opciones": {
+        "A": "Centros escolares",
+        "B": "Ayuntamientos",
+        "C": "Hospitales y Centros de Especialidades",
+        "D": "Juzgados"
+      },
+      "respuesta_correcta": "C"
+    },
+    {
+      "id": 84,
+      "tema": 2,
+      "pregunta": "Indica la opción correcta sobre Para crear un Área de Salud se según el material de estudio.",
+      "opciones": {
+        "A": "Solo económicos",
+        "B": "Solo laborales",
+        "C": "Solo políticos",
+        "D": "Poblacionales, geográficos, culturales, de comunicación e instalaciones sanitarias"
+      },
+      "respuesta_correcta": "D"
+    },
+    {
+      "id": 85,
+      "tema": 2,
+      "pregunta": "Según el temario, ¿qué se indica sobre Las Áreas de Salud?",
+      "opciones": {
+        "A": "Entre 200.000 y 250.000 habitantes",
+        "B": "Entre 300.000 y 500.000",
+        "C": "Más de un millón",
+        "D": "Entre 50.000 y 100.000"
+      },
+      "respuesta_correcta": "A"
+    },
+    {
+      "id": 86,
+      "tema": 2,
+      "pregunta": "De acuerdo con el tema, ¿cuál es la opción correcta sobre Cada provincia?",
+      "opciones": {
+        "A": "Ninguna",
+        "B": "Como mínimo un Área Sanitaria",
+        "C": "Dos obligatoriamente",
+        "D": "Cinco obligatoriamente"
+      },
+      "respuesta_correcta": "B"
+    },
+    {
+      "id": 87,
+      "tema": 2,
+      "pregunta": "Respecto a En cada Área Sanitaria existe un Consejo de Salud de Área., ¿cuál es la afirmación correcta según el temario?",
+      "opciones": {
+        "A": "Consejo Escolar",
+        "B": "Senado de Área",
+        "C": "Consejo de Salud de Área",
+        "D": "Tribunal de Área"
+      },
+      "respuesta_correcta": "C"
+    },
+    {
+      "id": 88,
+      "tema": 2,
+      "pregunta": "Indica la opción correcta sobre El Consejo de Salud de Área según el material de estudio.",
+      "opciones": {
+        "A": "Un órgano colegiado",
+        "B": "Un órgano individual",
+        "C": "Una empresa privada",
+        "D": "Un órgano judicial"
+      },
+      "respuesta_correcta": "A"
+    },
+    {
+      "id": 89,
+      "tema": 2,
+      "pregunta": "Según el temario, ¿qué se indica sobre El Consejo de Salud de Área?",
+      "opciones": {
+        "A": "Nombrar al Rey",
+        "B": "Aprobar leyes estatales",
+        "C": "Controlar la gestión y para la consulta",
+        "D": "Gestionar impuestos"
+      },
+      "respuesta_correcta": "C"
+    },
+    {
+      "id": 90,
+      "tema": 2,
+      "pregunta": "De acuerdo con el tema, ¿cuál es la opción correcta sobre La mitad de los miembros del Consejo de Salud de Área representan a los municipios.?",
+      "opciones": {
+        "A": "Todos",
+        "B": "La mitad",
+        "C": "Una cuarta parte",
+        "D": "Un 60 por ciento"
+      },
+      "respuesta_correcta": "B"
+    },
+    {
+      "id": 91,
+      "tema": 2,
+      "pregunta": "Respecto a Una cuarta parte de los miembros del Consejo de Salud de Área, ¿cuál es la afirmación correcta según el temario?",
+      "opciones": {
+        "A": "El 60 por ciento",
+        "B": "Una cuarta parte",
+        "C": "Todos",
+        "D": "La mitad"
+      },
+      "respuesta_correcta": "B"
+    },
+    {
+      "id": 92,
+      "tema": 2,
+      "pregunta": "Indica la opción correcta sobre El Consejo de Salud de Área promueve la participación ciudadana. según el material de estudio.",
+      "opciones": {
+        "A": "Aprobar leyes",
+        "B": "Promover la participación ciudadana",
+        "C": "Nombrar al Presidente",
+        "D": "Recaudar impuestos"
+      },
+      "respuesta_correcta": "B"
+    },
+    {
+      "id": 93,
+      "tema": 2,
+      "pregunta": "Según el temario, ¿qué se indica sobre El Consejo de Salud de Área conoce la Memoria Anual del Área de Salud.?",
+      "opciones": {
+        "A": "La Constitución",
+        "B": "El presupuesto estatal",
+        "C": "La Memoria Anual",
+        "D": "El Estatuto de Autonomía"
+      },
+      "respuesta_correcta": "C"
+    },
+    {
+      "id": 94,
+      "tema": 2,
+      "pregunta": "De acuerdo con el tema, ¿cuál es la opción correcta sobre El Consejo de Dirección?",
+      "opciones": {
+        "A": "El Consejo de Dirección",
+        "B": "El Gerente",
+        "C": "El Ayuntamiento",
+        "D": "El Consejo de Salud"
+      },
+      "respuesta_correcta": "A"
+    },
+    {
+      "id": 95,
+      "tema": 2,
+      "pregunta": "Respecto a El Consejo de Dirección, ¿cuál es la afirmación correcta según el temario?",
+      "opciones": {
+        "A": "50 por ciento de sindicatos",
+        "B": "Solo municipios",
+        "C": "Solo profesionales",
+        "D": "60 por ciento de representantes de la Comunidad Autónoma y representantes municipales"
+      },
+      "respuesta_correcta": "D"
+    },
+    {
+      "id": 96,
+      "tema": 2,
+      "pregunta": "Indica la opción correcta sobre El Consejo de Dirección aprueba el Plan de Salud del Área. según el material de estudio.",
+      "opciones": {
+        "A": "El Estatuto de Autonomía",
+        "B": "El Plan de Salud del Área",
+        "C": "El presupuesto estatal",
+        "D": "La Constitución"
+      },
+      "respuesta_correcta": "B"
+    },
+    {
+      "id": 97,
+      "tema": 2,
+      "pregunta": "Según el temario, ¿qué se indica sobre El Gerente de Área gestiona el Área de Salud.?",
+      "opciones": {
+        "A": "El Ministerio",
+        "B": "El Gerente de Área",
+        "C": "El Consejo de Salud",
+        "D": "El Senado"
+      },
+      "respuesta_correcta": "B"
+    },
+    {
+      "id": 98,
+      "tema": 2,
+      "pregunta": "De acuerdo con el tema, ¿cuál es la opción correcta sobre El Gerente de Área?",
+      "opciones": {
+        "A": "Voz, pero no voto",
+        "B": "Voto, pero no voz",
+        "C": "Ni voz ni voto",
+        "D": "Voto doble"
+      },
+      "respuesta_correcta": "A"
+    },
+    {
+      "id": 99,
+      "tema": 2,
+      "pregunta": "Respecto a Las Áreas Sanitarias, ¿cuál es la afirmación correcta según el temario?",
+      "opciones": {
+        "A": "Zonas Básicas de Salud",
+        "B": "Comunidades Autónomas",
+        "C": "Zonas judiciales",
+        "D": "Provincias"
+      },
+      "respuesta_correcta": "A"
+    },
+    {
+      "id": 100,
+      "tema": 2,
+      "pregunta": "Indica la opción correcta sobre Para crear una Zona Básica de Salud se considera la distancia entre pueblos y el centro del Área Sanitaria. según el material de estudio.",
+      "opciones": {
+        "A": "La distancia entre pueblos y el centro del Área Sanitaria",
+        "B": "Solo el número de hospitales",
+        "C": "Solo la renta",
+        "D": "Solo la edad"
+      },
+      "respuesta_correcta": "A"
+    },
+    {
+      "id": 101,
+      "tema": 2,
+      "pregunta": "Según el temario, ¿qué se indica sobre También se considera si la población vive agrupada o dispersa.?",
+      "opciones": {
+        "A": "Solo el idioma",
+        "B": "Solo el número de empresas",
+        "C": "Si la población vive agrupada o dispersa",
+        "D": "Solo el clima"
+      },
+      "respuesta_correcta": "C"
+    },
+    {
+      "id": 102,
+      "tema": 2,
+      "pregunta": "De acuerdo con el tema, ¿cuál es la opción correcta sobre Los Centros de Salud prestan la Atención Primaria en la Zona Básica de Salud.?",
+      "opciones": {
+        "A": "Atención universitaria",
+        "B": "Atención Primaria",
+        "C": "Atención fiscal",
+        "D": "Atención judicial"
+      },
+      "respuesta_correcta": "B"
+    },
+    {
+      "id": 103,
+      "tema": 2,
+      "pregunta": "Respecto a Los Centros de Salud, ¿cuál es la afirmación correcta según el temario?",
+      "opciones": {
+        "A": "Solo económicos",
+        "B": "Personales y materiales",
+        "C": "Solo materiales",
+        "D": "Solo personales"
+      },
+      "respuesta_correcta": "B"
+    },
+    {
+      "id": 104,
+      "tema": 2,
+      "pregunta": "Indica la opción correcta sobre Cada Área de Salud según el material de estudio.",
+      "opciones": {
+        "A": "Dos obligatoriamente",
+        "B": "Un hospital",
+        "C": "Cinco",
+        "D": "Ninguno"
+      },
+      "respuesta_correcta": "B"
+    },
+    {
+      "id": 105,
+      "tema": 2,
+      "pregunta": "Según el temario, ¿qué se indica sobre Los hospitales se encargan de tratamientos clínicos de ingresados y asistencia especializada.?",
+      "opciones": {
+        "A": "Solo vacunación",
+        "B": "Solo prevención",
+        "C": "Tratamientos clínicos de ingresados y asistencia especializada",
+        "D": "Solo administración"
+      },
+      "respuesta_correcta": "C"
+    },
+    {
+      "id": 106,
+      "tema": 2,
+      "pregunta": "De acuerdo con el tema, ¿cuál es la opción correcta sobre Los hospitales públicos?",
+      "opciones": {
+        "A": "Solo con hospitales privados",
+        "B": "De forma aislada",
+        "C": "Solo dentro de un municipio",
+        "D": "En red"
+      },
+      "respuesta_correcta": "D"
+    },
+    {
+      "id": 107,
+      "tema": 2,
+      "pregunta": "Respecto a Los hospitales privados, ¿cuál es la afirmación correcta según el temario?",
+      "opciones": {
+        "A": "Por decisión sindical",
+        "B": "Mediante una elección",
+        "C": "Mediante un convenio con la Administración",
+        "D": "Por decreto municipal"
+      },
+      "respuesta_correcta": "C"
+    },
+    {
+      "id": 108,
+      "tema": 2,
+      "pregunta": "Indica la opción correcta sobre Los servicios de hospitales privados con convenio para usuarios del Sistema Nacional Sanitario serán gratuitos. según el material de estudio.",
+      "opciones": {
+        "A": "Solo parcialmente gratuitos",
+        "B": "Solo para funcionarios",
+        "C": "Siempre de pago",
+        "D": "Gratuitos"
+      },
+      "respuesta_correcta": "D"
+    },
+    {
+      "id": 109,
+      "tema": 2,
+      "pregunta": "Según el temario, ¿qué se indica sobre Los hospitales privados con convenio?",
+      "opciones": {
+        "A": "Ningún control",
+        "B": "Solo controles municipales",
+        "C": "Los mismos controles e inspecciones",
+        "D": "Solo controles privados"
+      },
+      "respuesta_correcta": "C"
+    },
+    {
+      "id": 110,
+      "tema": 2,
+      "pregunta": "De acuerdo con el tema, ¿cuál es la opción correcta sobre El Estado?",
+      "opciones": {
+        "A": "Los Ayuntamientos",
+        "B": "Los hospitales privados",
+        "C": "El Estado",
+        "D": "Los sindicatos"
+      },
+      "respuesta_correcta": "C"
+    },
+    {
+      "id": 111,
+      "tema": 2,
+      "pregunta": "Respecto a La coordinación sanitaria establece criterios mínimos, ¿cuál es la afirmación correcta según el temario?",
+      "opciones": {
+        "A": "Criterios opcionales",
+        "B": "Criterios privados",
+        "C": "Criterios mínimos, básicos y comunes",
+        "D": "Criterios solo municipales"
+      },
+      "respuesta_correcta": "C"
+    },
+    {
+      "id": 112,
+      "tema": 2,
+      "pregunta": "Indica la opción correcta sobre El Plan Integrado de Salud recoge los planes de salud del Estado y de las Comunidades Autónomas. según el material de estudio.",
+      "opciones": {
+        "A": "Solo planes privados",
+        "B": "Los planes del Estado y de las Comunidades Autónomas",
+        "C": "Solo planes hospitalarios",
+        "D": "Solo planes municipales"
+      },
+      "respuesta_correcta": "B"
+    },
+    {
+      "id": 113,
+      "tema": 2,
+      "pregunta": "Según el temario, ¿qué se indica sobre El Estado comprueba que los planes autonómicos?",
+      "opciones": {
+        "A": "Los sindicatos",
+        "B": "Los Ayuntamientos",
+        "C": "Los hospitales",
+        "D": "El Estado"
+      },
+      "respuesta_correcta": "D"
+    },
+    {
+      "id": 114,
+      "tema": 2,
+      "pregunta": "De acuerdo con el tema, ¿cuál es la opción correcta sobre El Sistema Nacional Sanitario?",
+      "opciones": {
+        "A": "Solo donaciones",
+        "B": "Solo dinero privado",
+        "C": "Dinero público",
+        "D": "Solo tasas"
+      },
+      "respuesta_correcta": "C"
+    },
+    {
+      "id": 115,
+      "tema": 2,
+      "pregunta": "Respecto a Entre las fuentes de financiación se encuentran las cotizaciones sociales., ¿cuál es la afirmación correcta según el temario?",
+      "opciones": {
+        "A": "Solo matrículas",
+        "B": "Solo multas",
+        "C": "Solo donaciones",
+        "D": "Las cotizaciones sociales"
+      },
+      "respuesta_correcta": "D"
+    },
+    {
+      "id": 116,
+      "tema": 2,
+      "pregunta": "Indica la opción correcta sobre También existen transferencias del Estado a las Comunidades Autónomas. según el material de estudio.",
+      "opciones": {
+        "A": "Transferencias del Estado",
+        "B": "Solo donaciones",
+        "C": "Transferencias de empresas",
+        "D": "Solo préstamos"
+      },
+      "respuesta_correcta": "A"
+    },
+    {
+      "id": 117,
+      "tema": 2,
+      "pregunta": "Según el temario, ¿qué se indica sobre Las tasas?",
+      "opciones": {
+        "A": "Tasas",
+        "B": "Solo impuestos municipales",
+        "C": "Solo cuotas sindicales",
+        "D": "Solo multas"
+      },
+      "respuesta_correcta": "A"
+    },
+    {
+      "id": 118,
+      "tema": 2,
+      "pregunta": "De acuerdo con el tema, ¿cuál es la opción correcta sobre El personal que trabaja para los Servicios de Salud?",
+      "opciones": {
+        "A": "Personal judicial",
+        "B": "Personal municipal",
+        "C": "Personal Estatutario",
+        "D": "Personal electoral"
+      },
+      "respuesta_correcta": "C"
+    },
+    {
+      "id": 119,
+      "tema": 2,
+      "pregunta": "Respecto a El Estatuto-Marco del personal estatutario de los servicios de salud, ¿cuál es la afirmación correcta según el temario?",
+      "opciones": {
+        "A": "2003",
+        "B": "1986",
+        "C": "2019",
+        "D": "2011"
+      },
+      "respuesta_correcta": "A"
+    },
+    {
+      "id": 120,
+      "tema": 2,
+      "pregunta": "Indica la opción correcta sobre El Estatuto-Marco según el material de estudio.",
+      "opciones": {
+        "A": "Normativa electoral",
+        "B": "Normativa privada",
+        "C": "Normativa municipal",
+        "D": "Normativa básica"
+      },
+      "respuesta_correcta": "D"
+    },
+    {
+      "id": 121,
+      "tema": 2,
+      "pregunta": "Según el temario, ¿qué se indica sobre En Comunidades Autónomas con dos lenguas oficiales se?",
+      "opciones": {
+        "A": "Las dos lenguas oficiales",
+        "B": "Todas las lenguas europeas",
+        "C": "Solo una lengua extranjera",
+        "D": "Ninguna"
+      },
+      "respuesta_correcta": "A"
+    },
+    {
+      "id": 122,
+      "tema": 2,
+      "pregunta": "De acuerdo con el tema, ¿cuál es la opción correcta sobre En necesidades imperativas?",
+      "opciones": {
+        "A": "Solo respetando el horario",
+        "B": "Respetando sus condiciones laborales y económicas",
+        "C": "Solo respetando el salario",
+        "D": "Sin respetar ninguna condición"
+      },
+      "respuesta_correcta": "B"
+    },
+    {
+      "id": 123,
+      "tema": 2,
+      "pregunta": "Respecto a Un Convenio Internacional, ¿cuál es la afirmación correcta según el temario?",
+      "opciones": {
+        "A": "Un contrato laboral",
+        "B": "Una ley municipal",
+        "C": "Un tratado o acuerdo entre dos o más países",
+        "D": "Un reglamento hospitalario"
+      },
+      "respuesta_correcta": "C"
+    },
+    {
+      "id": 124,
+      "tema": 2,
+      "pregunta": "Indica la opción correcta sobre El Consejo de Salud de Área según el material de estudio.",
+      "opciones": {
+        "A": "Un órgano de participación",
+        "B": "Una empresa sanitaria",
+        "C": "Un órgano judicial",
+        "D": "Un órgano legislativo estatal"
+      },
+      "respuesta_correcta": "A"
+    },
+    {
+      "id": 125,
+      "tema": 2,
+      "pregunta": "Según el temario, ¿qué se indica sobre El Consejo de Dirección?",
+      "opciones": {
+        "A": "El órgano económico",
+        "B": "El órgano director",
+        "C": "El órgano judicial",
+        "D": "El órgano legislativo"
+      },
+      "respuesta_correcta": "B"
+    },
+    {
+      "id": 126,
+      "tema": 2,
+      "pregunta": "De acuerdo con el tema, ¿cuál es la opción correcta sobre El Gerente de Área?",
+      "opciones": {
+        "A": "El órgano de participación",
+        "B": "El órgano de gestión",
+        "C": "El órgano legislativo",
+        "D": "El órgano judicial"
+      },
+      "respuesta_correcta": "B"
+    },
+    {
+      "id": 127,
+      "tema": 2,
+      "pregunta": "Respecto a Los hospitales públicos que, ¿cuál es la afirmación correcta según el temario?",
+      "opciones": {
+        "A": "Solo colaboran dentro de un municipio",
+        "B": "No colaboran nunca",
+        "C": "Colaboran aunque sean de diferentes Administraciones",
+        "D": "Solo colaboran si son privados"
+      },
+      "respuesta_correcta": "C"
+    },
+    {
+      "id": 128,
+      "tema": 3,
+      "pregunta": "Indica la opción correcta sobre El personal estatutario según el material de estudio.",
+      "opciones": {
+        "A": "Un tipo de empleado público",
+        "B": "Un trabajador autónomo",
+        "C": "Un voluntario",
+        "D": "Un empresario privado"
+      },
+      "respuesta_correcta": "A"
+    },
+    {
+      "id": 129,
+      "tema": 3,
+      "pregunta": "Según el temario, ¿qué se indica sobre La relación laboral del personal estatutario se rige por una normativa propia llamada estatuto.?",
+      "opciones": {
+        "A": "Por una normativa propia llamada estatuto",
+        "B": "Por un contrato mercantil",
+        "C": "Por una ordenanza",
+        "D": "Por un convenio municipal"
+      },
+      "respuesta_correcta": "A"
+    },
+    {
+      "id": 130,
+      "tema": 3,
+      "pregunta": "De acuerdo con el tema, ¿cuál es la opción correcta sobre La Ley 55/2003?",
+      "opciones": {
+        "A": "Ley 14/1986",
+        "B": "Ley 55/2003",
+        "C": "Ley 2/2011",
+        "D": "Ley 7/2019"
+      },
+      "respuesta_correcta": "B"
+    },
+    {
+      "id": 131,
+      "tema": 3,
+      "pregunta": "Respecto a El personal estatutario, ¿cuál es la afirmación correcta según el temario?",
+      "opciones": {
+        "A": "Solo por antigüedad",
+        "B": "Por el título o función que desempeña",
+        "C": "Solo por edad",
+        "D": "Solo por salario"
+      },
+      "respuesta_correcta": "B"
+    },
+    {
+      "id": 132,
+      "tema": 3,
+      "pregunta": "Indica la opción correcta sobre Por el título o función, el personal según el material de estudio.",
+      "opciones": {
+        "A": "Fijo o temporal",
+        "B": "Interino o eventual",
+        "C": "Público o privado",
+        "D": "Sanitario o de gestión y servicios"
+      },
+      "respuesta_correcta": "D"
+    },
+    {
+      "id": 133,
+      "tema": 3,
+      "pregunta": "Según el temario, ¿qué se indica sobre Por el tipo de nombramiento?",
+      "opciones": {
+        "A": "Universitario o técnico",
+        "B": "Local o estatal",
+        "C": "Fijo o temporal",
+        "D": "Sanitario o no sanitario"
+      },
+      "respuesta_correcta": "C"
+    },
+    {
+      "id": 134,
+      "tema": 3,
+      "pregunta": "De acuerdo con el tema, ¿cuál es la opción correcta sobre El personal estatutario fijo?",
+      "opciones": {
+        "A": "Un nombramiento permanente",
+        "B": "Un nombramiento voluntario",
+        "C": "Un contrato mercantil",
+        "D": "Un contrato de un día"
+      },
+      "respuesta_correcta": "A"
+    },
+    {
+      "id": 135,
+      "tema": 3,
+      "pregunta": "Respecto a El personal estatutario temporal no, ¿cuál es la afirmación correcta según el temario?",
+      "opciones": {
+        "A": "Siempre es sanitario",
+        "B": "Siempre obtiene plaza fija",
+        "C": "No obtiene un nombramiento permanente",
+        "D": "Siempre es funcionario"
+      },
+      "respuesta_correcta": "C"
+    },
+    {
+      "id": 136,
+      "tema": 3,
+      "pregunta": "Indica la opción correcta sobre El personal estatutario sanitario según el material de estudio.",
+      "opciones": {
+        "A": "Solo ESO",
+        "B": "Solo experiencia",
+        "C": "Solo formación jurídica",
+        "D": "Formación sanitaria universitaria o profesional"
+      },
+      "respuesta_correcta": "D"
+    },
+    {
+      "id": 137,
+      "tema": 3,
+      "pregunta": "Según el temario, ¿qué se indica sobre Entre el personal sanitario universitario?",
+      "opciones": {
+        "A": "Solo técnicos",
+        "B": "Licenciados con título de Especialista en Ciencias de la Salud",
+        "C": "Solo administrativos",
+        "D": "Solo auxiliares"
+      },
+      "respuesta_correcta": "B"
+    },
+    {
+      "id": 138,
+      "tema": 3,
+      "pregunta": "De acuerdo con el tema, ¿cuál es la opción correcta sobre Entre el personal sanitario de formación profesional?",
+      "opciones": {
+        "A": "Solo diplomados",
+        "B": "Técnicos superiores y técnicos",
+        "C": "Solo doctores",
+        "D": "Solo licenciados"
+      },
+      "respuesta_correcta": "B"
+    },
+    {
+      "id": 139,
+      "tema": 3,
+      "pregunta": "Respecto a El personal de gestión y servicios no necesita titulación sanitaria., ¿cuál es la afirmación correcta según el temario?",
+      "opciones": {
+        "A": "Siempre necesita una especialidad sanitaria",
+        "B": "Siempre necesita Medicina",
+        "C": "Siempre necesita Enfermería",
+        "D": "No necesita titulación sanitaria"
+      },
+      "respuesta_correcta": "D"
+    },
+    {
+      "id": 140,
+      "tema": 3,
+      "pregunta": "Indica la opción correcta sobre En oposiciones de gestión y servicios se exige un título para cada puesto. según el material de estudio.",
+      "opciones": {
+        "A": "Siempre ESO",
+        "B": "Siempre un título universitario",
+        "C": "Ningún título",
+        "D": "Un título para cada puesto"
+      },
+      "respuesta_correcta": "D"
+    },
+    {
+      "id": 141,
+      "tema": 3,
+      "pregunta": "Según el temario, ¿qué se indica sobre El personal de gestión y servicios universitario?",
+      "opciones": {
+        "A": "Solo técnicos",
+        "B": "Solo ESO",
+        "C": "Licenciados y diplomados universitarios o equivalentes",
+        "D": "Solo especialistas sanitarios"
+      },
+      "respuesta_correcta": "C"
+    },
+    {
+      "id": 142,
+      "tema": 3,
+      "pregunta": "De acuerdo con el tema, ¿cuál es la opción correcta sobre Otro personal?",
+      "opciones": {
+        "A": "Certificación de años cursados de ESO o título equivalente",
+        "B": "Doctorado",
+        "C": "Solo licenciatura",
+        "D": "Solo máster"
+      },
+      "respuesta_correcta": "A"
+    },
+    {
+      "id": 143,
+      "tema": 3,
+      "pregunta": "Respecto a El personal estatutario fijo se, ¿cuál es la afirmación correcta según el temario?",
+      "opciones": {
+        "A": "Solo tener experiencia",
+        "B": "Solo realizar entrevista",
+        "C": "Aprobar oposiciones y conseguir plaza",
+        "D": "Solo presentar solicitud"
+      },
+      "respuesta_correcta": "C"
+    },
+    {
+      "id": 144,
+      "tema": 3,
+      "pregunta": "Indica la opción correcta sobre El personal temporal se contrata por necesidades puntuales según el material de estudio.",
+      "opciones": {
+        "A": "Solo voluntarias",
+        "B": "Puntuales, urgentes o extraordinarias",
+        "C": "Solo académicas",
+        "D": "Solo permanentes"
+      },
+      "respuesta_correcta": "B"
+    },
+    {
+      "id": 145,
+      "tema": 3,
+      "pregunta": "Según el temario, ¿qué se indica sobre A los contratos temporales se les aplican las mismas condiciones que al personal fijo.?",
+      "opciones": {
+        "A": "Solo vacaciones",
+        "B": "Las mismas condiciones",
+        "C": "Solo condiciones salariales",
+        "D": "Ninguna condición"
+      },
+      "respuesta_correcta": "B"
+    },
+    {
+      "id": 146,
+      "tema": 3,
+      "pregunta": "De acuerdo con el tema, ¿cuál es la opción correcta sobre Hay tres tipos de personal temporal: interinos?",
+      "opciones": {
+        "A": "Administrativos, médicos y celadores",
+        "B": "Interinos, eventuales y de sustitución",
+        "C": "Eventuales, funcionarios y becarios",
+        "D": "Fijos, sanitarios y técnicos"
+      },
+      "respuesta_correcta": "B"
+    },
+    {
+      "id": 147,
+      "tema": 3,
+      "pregunta": "Respecto a El personal interino se utiliza cuando, ¿cuál es la afirmación correcta según el temario?",
+      "opciones": {
+        "A": "Permisos",
+        "B": "Plazas vacantes no cubiertas por personal fijo",
+        "C": "Vacaciones",
+        "D": "Cursos"
+      },
+      "respuesta_correcta": "B"
+    },
+    {
+      "id": 148,
+      "tema": 3,
+      "pregunta": "Indica la opción correcta sobre El trabajo del personal interino termina cuando la plaza se cubre o se amortiza. según el material de estudio.",
+      "opciones": {
+        "A": "Cuando la plaza se cubre o se amortiza",
+        "B": "Cuando cambia el turno",
+        "C": "Siempre a los tres meses",
+        "D": "Cuando termina el año"
+      },
+      "respuesta_correcta": "A"
+    },
+    {
+      "id": 149,
+      "tema": 3,
+      "pregunta": "Según el temario, ¿qué se indica sobre El personal eventual?",
+      "opciones": {
+        "A": "Solo en jubilaciones",
+        "B": "Siempre permanentemente",
+        "C": "Solo en vacaciones",
+        "D": "De forma temporal o extraordinaria"
+      },
+      "respuesta_correcta": "D"
+    },
+    {
+      "id": 150,
+      "tema": 3,
+      "pregunta": "De acuerdo con el tema, ¿cuál es la opción correcta sobre El personal eventual?",
+      "opciones": {
+        "A": "Aprobar leyes",
+        "B": "Crear un sindicato",
+        "C": "Garantizar el buen funcionamiento de un servicio",
+        "D": "Eliminar un servicio"
+      },
+      "respuesta_correcta": "C"
+    },
+    {
+      "id": 151,
+      "tema": 3,
+      "pregunta": "Respecto a El personal eventual, ¿cuál es la afirmación correcta según el temario?",
+      "opciones": {
+        "A": "Cuando un trabajador tiene una reducción de jornada",
+        "B": "Cuando cambia de residencia",
+        "C": "Cuando se jubila",
+        "D": "Cuando obtiene una plaza fija"
+      },
+      "respuesta_correcta": "A"
+    },
+    {
+      "id": 152,
+      "tema": 3,
+      "pregunta": "Indica la opción correcta sobre Los contratos eventuales terminan cuando termina la causa que los motiva o vence el plazo. según el material de estudio.",
+      "opciones": {
+        "A": "Cuando lo decide un sindicato",
+        "B": "Cuando termina la causa o vence el plazo",
+        "C": "Cuando cambia el Gobierno",
+        "D": "Siempre a los 10 años"
+      },
+      "respuesta_correcta": "B"
+    },
+    {
+      "id": 153,
+      "tema": 3,
+      "pregunta": "Según el temario, ¿qué se indica sobre Dos contratos eventuales que sumen 12 o más meses en dos años?",
+      "opciones": {
+        "A": "3 meses en cinco años",
+        "B": "6 meses en un año",
+        "C": "12 o más meses en dos años",
+        "D": "24 meses en un mes"
+      },
+      "respuesta_correcta": "C"
+    },
+    {
+      "id": 154,
+      "tema": 3,
+      "pregunta": "De acuerdo con el tema, ¿cuál es la opción correcta sobre El personal de sustitución cubre vacaciones?",
+      "opciones": {
+        "A": "Plazas nuevas",
+        "B": "Elecciones",
+        "C": "Vacaciones, permisos u otras ausencias con reserva de plaza",
+        "D": "Jubilaciones sin reserva"
+      },
+      "respuesta_correcta": "C"
+    },
+    {
+      "id": 155,
+      "tema": 3,
+      "pregunta": "Respecto a El personal de sustitución termina con la reincorporación o pérdida de reserva o derecho a reincorporación., ¿cuál es la afirmación correcta según el temario?",
+      "opciones": {
+        "A": "Cuando cambia el horario",
+        "B": "Siempre al año",
+        "C": "Con la reincorporación o pérdida de reserva/derecho",
+        "D": "Al finalizar el mes"
+      },
+      "respuesta_correcta": "C"
+    },
+    {
+      "id": 156,
+      "tema": 3,
+      "pregunta": "Indica la opción correcta sobre Los derechos individuales se aplican al personal fijo y temporal. según el material de estudio.",
+      "opciones": {
+        "A": "Al personal fijo y temporal",
+        "B": "Solo al temporal",
+        "C": "Solo al fijo",
+        "D": "Solo al sanitario"
+      },
+      "respuesta_correcta": "A"
+    },
+    {
+      "id": 157,
+      "tema": 3,
+      "pregunta": "Según el temario, ¿qué se indica sobre El personal?",
+      "opciones": {
+        "A": "Las funciones del puesto para el que ha sido nombrado",
+        "B": "Cualquier función superior",
+        "C": "Solo funciones administrativas",
+        "D": "Cualquier función inferior"
+      },
+      "respuesta_correcta": "A"
+    },
+    {
+      "id": 158,
+      "tema": 3,
+      "pregunta": "De acuerdo con el tema, ¿cuál es la opción correcta sobre El personal?",
+      "opciones": {
+        "A": "Solo complementos",
+        "B": "Salarios e indemnizaciones puntualmente",
+        "C": "Solo vacaciones",
+        "D": "Solo dietas"
+      },
+      "respuesta_correcta": "B"
+    },
+    {
+      "id": 159,
+      "tema": 3,
+      "pregunta": "Respecto a El personal, ¿cuál es la afirmación correcta según el temario?",
+      "opciones": {
+        "A": "Formación solo inicial",
+        "B": "Formación solo voluntaria",
+        "C": "Formación continua acorde al puesto",
+        "D": "Ninguna formación"
+      },
+      "respuesta_correcta": "C"
+    },
+    {
+      "id": 160,
+      "tema": 3,
+      "pregunta": "Indica la opción correcta sobre El personal según el material de estudio.",
+      "opciones": {
+        "A": "Protección de seguridad y salud en el trabajo",
+        "B": "Solo protección administrativa",
+        "C": "Solo protección salarial",
+        "D": "Solo protección jurídica"
+      },
+      "respuesta_correcta": "A"
+    },
+    {
+      "id": 161,
+      "tema": 3,
+      "pregunta": "Según el temario, ¿qué se indica sobre El personal?",
+      "opciones": {
+        "A": "Solo cambio de ciudad",
+        "B": "Movilidad voluntaria y promoción interna",
+        "C": "Solo traslado forzoso",
+        "D": "Solo jubilación"
+      },
+      "respuesta_correcta": "B"
+    },
+    {
+      "id": 162,
+      "tema": 3,
+      "pregunta": "De acuerdo con el tema, ¿cuál es la opción correcta sobre El personal?",
+      "opciones": {
+        "A": "Solo su salario",
+        "B": "Solo su antigüedad",
+        "C": "El respeto a su dignidad",
+        "D": "Solo su horario"
+      },
+      "respuesta_correcta": "C"
+    },
+    {
+      "id": 163,
+      "tema": 3,
+      "pregunta": "Respecto a El personal, ¿cuál es la afirmación correcta según el temario?",
+      "opciones": {
+        "A": "Solo descansos sin vacaciones",
+        "B": "Descanso, vacaciones pagadas y permisos legales",
+        "C": "Solo vacaciones no pagadas",
+        "D": "Solo permisos sindicales"
+      },
+      "respuesta_correcta": "B"
+    },
+    {
+      "id": 164,
+      "tema": 3,
+      "pregunta": "Indica la opción correcta sobre El personal según el material de estudio.",
+      "opciones": {
+        "A": "Solo asistencia económica",
+        "B": "Asistencia sanitaria y de salud",
+        "C": "Solo asistencia sindical",
+        "D": "Solo asistencia jurídica"
+      },
+      "respuesta_correcta": "B"
+    },
+    {
+      "id": 165,
+      "tema": 3,
+      "pregunta": "Según el temario, ¿qué se indica sobre El personal?",
+      "opciones": {
+        "A": "Estar dado de alta en la Seguridad Social",
+        "B": "Estar dado de alta en un sindicato",
+        "C": "Ser funcionario",
+        "D": "Tener una empresa"
+      },
+      "respuesta_correcta": "A"
+    },
+    {
+      "id": 166,
+      "tema": 3,
+      "pregunta": "De acuerdo con el tema, ¿cuál es la opción correcta sobre El personal?",
+      "opciones": {
+        "A": "Solo el horario",
+        "B": "Las tareas y los métodos de evaluación",
+        "C": "Solo el salario",
+        "D": "Solo las vacaciones"
+      },
+      "respuesta_correcta": "B"
+    },
+    {
+      "id": 167,
+      "tema": 3,
+      "pregunta": "Respecto a Existe derecho a no discriminación por raza, ¿cuál es la afirmación correcta según el temario?",
+      "opciones": {
+        "A": "Discriminación por turno",
+        "B": "Discriminación por categoría",
+        "C": "No discriminación",
+        "D": "Discriminación por edad"
+      },
+      "respuesta_correcta": "C"
+    },
+    {
+      "id": 168,
+      "tema": 3,
+      "pregunta": "Indica la opción correcta sobre Existe derecho a la jubilación. según el material de estudio.",
+      "opciones": {
+        "A": "A la jubilación",
+        "B": "A trabajar sin límite",
+        "C": "A no cotizar",
+        "D": "A no tener vacaciones"
+      },
+      "respuesta_correcta": "A"
+    },
+    {
+      "id": 169,
+      "tema": 3,
+      "pregunta": "Según el temario, ¿qué se indica sobre Existe derecho a la acción social.?",
+      "opciones": {
+        "A": "A la acción municipal",
+        "B": "A la acción social",
+        "C": "A la acción judicial",
+        "D": "A la acción electoral"
+      },
+      "respuesta_correcta": "B"
+    },
+    {
+      "id": 170,
+      "tema": 3,
+      "pregunta": "De acuerdo con el tema, ¿cuál es la opción correcta sobre Entre los derechos colectivos?",
+      "opciones": {
+        "A": "Afiliarse obligatoriamente a uno",
+        "B": "Afiliarse solo a sindicatos sanitarios",
+        "C": "Afiliarse al sindicato que se elija",
+        "D": "No afiliarse nunca"
+      },
+      "respuesta_correcta": "C"
+    },
+    {
+      "id": 171,
+      "tema": 3,
+      "pregunta": "Respecto a Existe derecho a ejercer libremente la actividad sindical., ¿cuál es la afirmación correcta según el temario?",
+      "opciones": {
+        "A": "No ejercerla",
+        "B": "Ejercerla solo con autorización",
+        "C": "Ejercer libremente la actividad sindical",
+        "D": "Ejercerla solo en vacaciones"
+      },
+      "respuesta_correcta": "C"
+    },
+    {
+      "id": 172,
+      "tema": 3,
+      "pregunta": "Indica la opción correcta sobre Existe derecho a la huelga según el material de estudio.",
+      "opciones": {
+        "A": "Solo huelga individual",
+        "B": "No existe derecho",
+        "C": "A la huelga sin servicios mínimos",
+        "D": "A la huelga con servicios mínimos esenciales"
+      },
+      "respuesta_correcta": "D"
+    },
+    {
+      "id": 173,
+      "tema": 3,
+      "pregunta": "Según el temario, ¿qué se indica sobre Existe derecho a la negociación colectiva.?",
+      "opciones": {
+        "A": "A la negociación individual obligatoria",
+        "B": "A la negociación colectiva",
+        "C": "A no negociar",
+        "D": "A negociar solo con usuarios"
+      },
+      "respuesta_correcta": "B"
+    },
+    {
+      "id": 174,
+      "tema": 3,
+      "pregunta": "De acuerdo con el tema, ¿cuál es la opción correcta sobre Existe derecho de reunión.?",
+      "opciones": {
+        "A": "De aprobar leyes",
+        "B": "De reunión",
+        "C": "De elección del Rey",
+        "D": "De veto"
+      },
+      "respuesta_correcta": "B"
+    },
+    {
+      "id": 175,
+      "tema": 3,
+      "pregunta": "Respecto a Existe derecho a tener servicios de prevención de riesgos y representación en seguridad laboral., ¿cuál es la afirmación correcta según el temario?",
+      "opciones": {
+        "A": "Servicios de prevención y representación en seguridad laboral",
+        "B": "Solo servicios jurídicos",
+        "C": "Solo representación política",
+        "D": "Solo servicios económicos"
+      },
+      "respuesta_correcta": "A"
+    },
+    {
+      "id": 176,
+      "tema": 3,
+      "pregunta": "Indica la opción correcta sobre Es deber respetar la Constitución según el material de estudio.",
+      "opciones": {
+        "A": "Respetar solo reglamentos",
+        "B": "Respetar la Constitución, el Estatuto de Autonomía y las leyes",
+        "C": "Respetar solo normas internas",
+        "D": "Respetar solo órdenes"
+      },
+      "respuesta_correcta": "B"
+    },
+    {
+      "id": 177,
+      "tema": 3,
+      "pregunta": "Según el temario, ¿qué se indica sobre Es deber realizar las funciones con lealtad y eficacia y respetar los códigos éticos.?",
+      "opciones": {
+        "A": "Solo con autonomía",
+        "B": "Solo con rapidez",
+        "C": "Solo con antigüedad",
+        "D": "Con lealtad, eficacia y respeto a códigos éticos"
+      },
+      "respuesta_correcta": "D"
+    },
+    {
+      "id": 178,
+      "tema": 3,
+      "pregunta": "De acuerdo con el tema, ¿cuál es la opción correcta sobre Es deber mantener actualizados los conocimientos necesarios.?",
+      "opciones": {
+        "A": "Mantener actualizados los conocimientos",
+        "B": "No formarse nunca",
+        "C": "Formarse solo antes de opositar",
+        "D": "Formarse solo voluntariamente"
+      },
+      "respuesta_correcta": "A"
+    },
+    {
+      "id": 179,
+      "tema": 3,
+      "pregunta": "Respecto a Es deber cumplir las órdenes recibidas y trabajar en equipo., ¿cuál es la afirmación correcta según el temario?",
+      "opciones": {
+        "A": "Elegir las funciones de otros",
+        "B": "No recibir órdenes",
+        "C": "Trabajar siempre solo",
+        "D": "Cumplir las órdenes y trabajar en equipo"
+      },
+      "respuesta_correcta": "D"
+    },
+    {
+      "id": 180,
+      "tema": 3,
+      "pregunta": "Indica la opción correcta sobre Es deber colaborar para cumplir los objetivos del centro o servicio. según el material de estudio.",
+      "opciones": {
+        "A": "Colaborar para cumplir los objetivos",
+        "B": "Trabajar sin coordinación",
+        "C": "Cambiar los objetivos individualmente",
+        "D": "Evitar los objetivos"
+      },
+      "respuesta_correcta": "A"
+    },
+    {
+      "id": 181,
+      "tema": 3,
+      "pregunta": "Según el temario, ¿qué se indica sobre Es deber colaborar con las autoridades en casos de urgencia o necesidad.?",
+      "opciones": {
+        "A": "Colaborar con las autoridades",
+        "B": "Negarse siempre",
+        "C": "Solo colaborar con empresas",
+        "D": "Solo colaborar con sindicatos"
+      },
+      "respuesta_correcta": "A"
+    },
+    {
+      "id": 182,
+      "tema": 3,
+      "pregunta": "De acuerdo con el tema, ¿cuál es la opción correcta sobre Es deber cumplir el horario de trabajo?",
+      "opciones": {
+        "A": "Solo trabajar media jornada",
+        "B": "Solo trabajar fines de semana",
+        "C": "Cumplir el horario, incluso horarios extendidos necesarios",
+        "D": "No cumplir horarios"
+      },
+      "respuesta_correcta": "C"
+    },
+    {
+      "id": 183,
+      "tema": 3,
+      "pregunta": "Respecto a Es deber informar a usuarios y pacientes sobre procesos y servicios disponibles dentro de las competencias., ¿cuál es la afirmación correcta según el temario?",
+      "opciones": {
+        "A": "Informar solo a compañeros",
+        "B": "Informar solo a sindicatos",
+        "C": "Informar solo a familiares",
+        "D": "Informar a usuarios y pacientes"
+      },
+      "respuesta_correcta": "D"
+    },
+    {
+      "id": 184,
+      "tema": 3,
+      "pregunta": "Indica la opción correcta sobre Es deber respetar la dignidad e intimidad de pacientes y usuarios. según el material de estudio.",
+      "opciones": {
+        "A": "Ignorar su intimidad",
+        "B": "Respetar dignidad e intimidad",
+        "C": "Publicar sus datos",
+        "D": "Compartir sus historias"
+      },
+      "respuesta_correcta": "B"
+    },
+    {
+      "id": 185,
+      "tema": 3,
+      "pregunta": "Según el temario, ¿qué se indica sobre Es deber no discriminar por razón de sexo?",
+      "opciones": {
+        "A": "Discriminar por categoría",
+        "B": "Discriminar por religión",
+        "C": "No realizar discriminaciones",
+        "D": "Discriminar por sexo"
+      },
+      "respuesta_correcta": "C"
+    },
+    {
+      "id": 186,
+      "tema": 3,
+      "pregunta": "De acuerdo con el tema, ¿cuál es la opción correcta sobre Es deber mantener confidencialidad y reserva sobre información y documentación conocida en el ejercicio.?",
+      "opciones": {
+        "A": "Confidencialidad y reserva",
+        "B": "Difusión pública",
+        "C": "Publicación en redes",
+        "D": "Comunicación a terceros"
+      },
+      "respuesta_correcta": "A"
+    },
+    {
+      "id": 187,
+      "tema": 3,
+      "pregunta": "Respecto a Es deber utilizar medios, ¿cuál es la afirmación correcta según el temario?",
+      "opciones": {
+        "A": "En beneficio propio",
+        "B": "En beneficio de terceras personas",
+        "C": "En beneficio de los pacientes",
+        "D": "Para uso particular"
+      },
+      "respuesta_correcta": "C"
+    },
+    {
+      "id": 188,
+      "tema": 3,
+      "pregunta": "Indica la opción correcta sobre Es deber evitar el mal uso de medios e instalaciones en beneficio propio o de terceros. según el material de estudio.",
+      "opciones": {
+        "A": "Compartir documentación",
+        "B": "Usarlos para fines personales",
+        "C": "Evitar el mal uso",
+        "D": "Prestar instalaciones"
+      },
+      "respuesta_correcta": "C"
+    },
+    {
+      "id": 189,
+      "tema": 3,
+      "pregunta": "Según el temario, ¿qué se indica sobre Es deber rellenar la documentación clínica o administrativa necesaria.?",
+      "opciones": {
+        "A": "Solo rellenarla al final del año",
+        "B": "Delegarla siempre",
+        "C": "Evitarla",
+        "D": "Rellenar la documentación necesaria"
+      },
+      "respuesta_correcta": "D"
+    },
+    {
+      "id": 190,
+      "tema": 3,
+      "pregunta": "De acuerdo con el tema, ¿cuál es la opción correcta sobre Es deber cumplir las normas de seguridad y salud en el trabajo.?",
+      "opciones": {
+        "A": "Solo normas sindicales",
+        "B": "Las normas de seguridad y salud",
+        "C": "Solo normas fiscales",
+        "D": "Solo normas salariales"
+      },
+      "respuesta_correcta": "B"
+    },
+    {
+      "id": 191,
+      "tema": 3,
+      "pregunta": "Respecto a Es deber cumplir el régimen de incompatibilidades., ¿cuál es la afirmación correcta según el temario?",
+      "opciones": {
+        "A": "El régimen municipal",
+        "B": "El régimen académico",
+        "C": "El régimen electoral",
+        "D": "El régimen de incompatibilidades"
+      },
+      "respuesta_correcta": "D"
+    },
+    {
+      "id": 192,
+      "tema": 3,
+      "pregunta": "Indica la opción correcta sobre El personal según el material de estudio.",
+      "opciones": {
+        "A": "Mediante número secreto",
+        "B": "Mediante firma electrónica",
+        "C": "Mediante placas identificativas",
+        "D": "Mediante uniforme sin nombre"
+      },
+      "respuesta_correcta": "C"
+    },
+    {
+      "id": 193,
+      "tema": 3,
+      "pregunta": "Según el temario, ¿qué se indica sobre Un empleado público?",
+      "opciones": {
+        "A": "Un trabajador al servicio de una Administración Pública",
+        "B": "Un voluntario privado",
+        "C": "Un empresario",
+        "D": "Un usuario sanitario"
+      },
+      "respuesta_correcta": "A"
+    },
+    {
+      "id": 194,
+      "tema": 3,
+      "pregunta": "De acuerdo con el tema, ¿cuál es la opción correcta sobre La movilidad voluntaria?",
+      "opciones": {
+        "A": "Cambio forzoso de categoría",
+        "B": "Cambio de empresa privada",
+        "C": "Jubilación anticipada",
+        "D": "Cambio de puesto dentro de la misma categoría por iniciativa del empleado"
+      },
+      "respuesta_correcta": "D"
+    },
+    {
+      "id": 195,
+      "tema": 3,
+      "pregunta": "Respecto a La promoción interna, ¿cuál es la afirmación correcta según el temario?",
+      "opciones": {
+        "A": "Una jubilación",
+        "B": "Un traslado entre empresas",
+        "C": "Una oposición externa exclusivamente",
+        "D": "Un proceso de selección para personas que ya trabajan en la organización"
+      },
+      "respuesta_correcta": "D"
+    },
+    {
+      "id": 196,
+      "tema": 3,
+      "pregunta": "Indica la opción correcta sobre La formación continua según el material de estudio.",
+      "opciones": {
+        "A": "Cambiar de categoría automáticamente",
+        "B": "Eliminar la formación",
+        "C": "Mantener actualizados los conocimientos profesionales",
+        "D": "Obtener siempre una plaza fija"
+      },
+      "respuesta_correcta": "C"
+    },
+    {
+      "id": 197,
+      "tema": 3,
+      "pregunta": "Según el temario, ¿qué se indica sobre El código ético?",
+      "opciones": {
+        "A": "Una nómina",
+        "B": "Un conjunto de valores, principios y normas de conducta",
+        "C": "Un horario",
+        "D": "Un contrato laboral"
+      },
+      "respuesta_correcta": "B"
+    },
+    {
+      "id": 198,
+      "tema": 4,
+      "pregunta": "De acuerdo con el tema, ¿cuál es la opción correcta sobre El Sistema de Salud del Principado de Asturias?",
+      "opciones": {
+        "A": "Solo hospitales",
+        "B": "Recursos que pueden influir en el estado de salud",
+        "C": "Solo recursos privados",
+        "D": "Solo médicos"
+      },
+      "respuesta_correcta": "B"
+    },
+    {
+      "id": 199,
+      "tema": 4,
+      "pregunta": "Respecto a El Sistema Sanitario del Principado de Asturias, ¿cuál es la afirmación correcta según el temario?",
+      "opciones": {
+        "A": "Solo farmacias",
+        "B": "Recursos y servicios sanitarios que hay en Asturias",
+        "C": "Solo hospitales privados",
+        "D": "Solo recursos estatales"
+      },
+      "respuesta_correcta": "B"
+    },
+    {
+      "id": 200,
+      "tema": 4,
+      "pregunta": "Indica la opción correcta sobre El Sistema Sanitario Público del Principado de Asturias según el material de estudio.",
+      "opciones": {
+        "A": "Recursos y servicios sanitarios propiedad del Principado",
+        "B": "Solo recursos municipales",
+        "C": "Solo empresas",
+        "D": "Solo recursos privados"
+      },
+      "respuesta_correcta": "A"
+    },
+    {
+      "id": 201,
+      "tema": 4,
+      "pregunta": "Según el temario, ¿qué se indica sobre El Sistema Sanitario Público del Principado de Asturias?",
+      "opciones": {
+        "A": "De la Unión Europea",
+        "B": "Del Sistema Nacional de Salud",
+        "C": "Del sistema judicial",
+        "D": "Del sistema educativo"
+      },
+      "respuesta_correcta": "B"
+    },
+    {
+      "id": 202,
+      "tema": 4,
+      "pregunta": "De acuerdo con el tema, ¿cuál es la opción correcta sobre El SESPA?",
+      "opciones": {
+        "A": "De la Consejería de Salud",
+        "B": "Del Ayuntamiento",
+        "C": "De la Diputación",
+        "D": "Del Senado"
+      },
+      "respuesta_correcta": "A"
+    },
+    {
+      "id": 203,
+      "tema": 4,
+      "pregunta": "Respecto a El SESPA, ¿cuál es la afirmación correcta según el temario?",
+      "opciones": {
+        "A": "Solo aprobar leyes",
+        "B": "Solo formar jueces",
+        "C": "Solo recaudar impuestos",
+        "D": "Hacer actividades sanitarias y gestionar los Servicios Sanitarios"
+      },
+      "respuesta_correcta": "D"
+    },
+    {
+      "id": 204,
+      "tema": 4,
+      "pregunta": "Indica la opción correcta sobre La Red Hospitalaria Pública según el material de estudio.",
+      "opciones": {
+        "A": "Solo hospitales públicos estatales",
+        "B": "Solo hospitales privados",
+        "C": "Solo centros de salud",
+        "D": "Hospitales públicos y privados con convenio"
+      },
+      "respuesta_correcta": "D"
+    },
+    {
+      "id": 205,
+      "tema": 4,
+      "pregunta": "Según el temario, ¿qué se indica sobre Los usuarios del SESPA?",
+      "opciones": {
+        "A": "Solo funcionarios",
+        "B": "Solo mayores de edad",
+        "C": "Todas las personas que viven en Asturias",
+        "D": "Solo españoles"
+      },
+      "respuesta_correcta": "C"
+    },
+    {
+      "id": 206,
+      "tema": 4,
+      "pregunta": "De acuerdo con el tema, ¿cuál es la opción correcta sobre Las personas no españolas que viven en Asturias?",
+      "opciones": {
+        "A": "Cuando una ley o convenio internacional lo diga",
+        "B": "Solo si trabajan",
+        "C": "Nunca",
+        "D": "Solo si son funcionarios"
+      },
+      "respuesta_correcta": "A"
+    },
+    {
+      "id": 207,
+      "tema": 4,
+      "pregunta": "Respecto a Aunque una persona no sea usuaria del SESPA, ¿cuál es la afirmación correcta según el temario?",
+      "opciones": {
+        "A": "Nunca",
+        "B": "Cuando sea necesaria para garantizar la salud pública",
+        "C": "Solo si paga",
+        "D": "Solo en hospitales privados"
+      },
+      "respuesta_correcta": "B"
+    },
+    {
+      "id": 208,
+      "tema": 4,
+      "pregunta": "Indica la opción correcta sobre Existe un registro donde según el material de estudio.",
+      "opciones": {
+        "A": "Un registro sindical",
+        "B": "Un registro judicial",
+        "C": "Un registro de usuarios",
+        "D": "Un registro electoral"
+      },
+      "respuesta_correcta": "C"
+    },
+    {
+      "id": 209,
+      "tema": 4,
+      "pregunta": "Según el temario, ¿qué se indica sobre A cada usuario se le da un Código de Identificación Personal.?",
+      "opciones": {
+        "A": "Código Judicial",
+        "B": "Código de Identificación Personal",
+        "C": "Código Municipal",
+        "D": "Código Electoral"
+      },
+      "respuesta_correcta": "B"
+    },
+    {
+      "id": 210,
+      "tema": 4,
+      "pregunta": "De acuerdo con el tema, ¿cuál es la opción correcta sobre A cada usuario se le asigna un Centro Sanitario y un médico.?",
+      "opciones": {
+        "A": "Solo un sindicato",
+        "B": "Solo un especialista privado",
+        "C": "Solo un hospital",
+        "D": "Un Centro Sanitario y un médico"
+      },
+      "respuesta_correcta": "D"
+    },
+    {
+      "id": 211,
+      "tema": 4,
+      "pregunta": "Respecto a Los recursos sanitarios de Asturias, ¿cuál es la afirmación correcta según el temario?",
+      "opciones": {
+        "A": "En un mapa judicial",
+        "B": "En un registro fiscal",
+        "C": "En un censo electoral",
+        "D": "En un Mapa Sanitario"
+      },
+      "respuesta_correcta": "D"
+    },
+    {
+      "id": 212,
+      "tema": 4,
+      "pregunta": "Indica la opción correcta sobre El Mapa Sanitario lo aprueba el Consejo de Gobierno del Principado de Asturias. según el material de estudio.",
+      "opciones": {
+        "A": "El Senado",
+        "B": "El Ayuntamiento",
+        "C": "El Congreso",
+        "D": "El Consejo de Gobierno del Principado de Asturias"
+      },
+      "respuesta_correcta": "D"
+    },
+    {
+      "id": 213,
+      "tema": 4,
+      "pregunta": "Según el temario, ¿qué se indica sobre El Mapa Sanitario?",
+      "opciones": {
+        "A": "Municipios y provincias",
+        "B": "Solo Áreas",
+        "C": "Solo Distritos",
+        "D": "Áreas, Zonas Básicas y Especiales y Distritos de Salud"
+      },
+      "respuesta_correcta": "D"
+    },
+    {
+      "id": 214,
+      "tema": 4,
+      "pregunta": "De acuerdo con el tema, ¿cuál es la opción correcta sobre Las Áreas de Salud?",
+      "opciones": {
+        "A": "Unidades de gestión y funcionamiento",
+        "B": "Unidades electorales",
+        "C": "Unidades judiciales",
+        "D": "Unidades educativas"
+      },
+      "respuesta_correcta": "A"
+    },
+    {
+      "id": 215,
+      "tema": 4,
+      "pregunta": "Respecto a Las Áreas de Salud se crean considerando factores poblacionales, ¿cuál es la afirmación correcta según el temario?",
+      "opciones": {
+        "A": "Solo políticos",
+        "B": "Solo económicos",
+        "C": "Solo laborales",
+        "D": "Poblacionales, geográficos, culturales y de comunicación"
+      },
+      "respuesta_correcta": "D"
+    },
+    {
+      "id": 216,
+      "tema": 4,
+      "pregunta": "Indica la opción correcta sobre Cada Área de Salud según el material de estudio.",
+      "opciones": {
+        "A": "Solo recursos privados",
+        "B": "Ningún recurso propio",
+        "C": "Recursos suficientes",
+        "D": "Recursos mínimos solo administrativos"
+      },
+      "respuesta_correcta": "C"
+    },
+    {
+      "id": 217,
+      "tema": 4,
+      "pregunta": "Según el temario, ¿qué se indica sobre Cada Área de Salud?",
+      "opciones": {
+        "A": "Una universidad",
+        "B": "Un Hospital General",
+        "C": "Un juzgado",
+        "D": "Un centro privado"
+      },
+      "respuesta_correcta": "B"
+    },
+    {
+      "id": 218,
+      "tema": 4,
+      "pregunta": "De acuerdo con el tema, ¿cuál es la opción correcta sobre Las Zonas Básicas de Salud?",
+      "opciones": {
+        "A": "Un Equipo de Atención Primaria",
+        "B": "Un tribunal",
+        "C": "Una empresa",
+        "D": "Un consejo escolar"
+      },
+      "respuesta_correcta": "A"
+    },
+    {
+      "id": 219,
+      "tema": 4,
+      "pregunta": "Respecto a Las Zonas Especiales de Salud, ¿cuál es la afirmación correcta según el temario?",
+      "opciones": {
+        "A": "Económicas, de población o de comunicaciones",
+        "B": "Solo culturales",
+        "C": "Solo deportivas",
+        "D": "Solo laborales"
+      },
+      "respuesta_correcta": "A"
+    },
+    {
+      "id": 220,
+      "tema": 4,
+      "pregunta": "Indica la opción correcta sobre Los Distritos de Salud sirven para mejorar la Atención Hospitalaria. según el material de estudio.",
+      "opciones": {
+        "A": "Organizar elecciones",
+        "B": "Mejorar la educación",
+        "C": "Mejorar la Atención Hospitalaria",
+        "D": "Recaudar impuestos"
+      },
+      "respuesta_correcta": "C"
+    },
+    {
+      "id": 221,
+      "tema": 4,
+      "pregunta": "Según el temario, ¿qué se indica sobre Cada Distrito de Salud?",
+      "opciones": {
+        "A": "Un ayuntamiento",
+        "B": "Una universidad",
+        "C": "Un Hospital General",
+        "D": "Un centro escolar"
+      },
+      "respuesta_correcta": "C"
+    },
+    {
+      "id": 222,
+      "tema": 4,
+      "pregunta": "De acuerdo con el tema, ¿cuál es la opción correcta sobre Los Distritos de Salud?",
+      "opciones": {
+        "A": "Una sola zona",
+        "B": "Dos o más Zonas Básicas o Zonas Especiales",
+        "C": "Solo Áreas",
+        "D": "Dos hospitales"
+      },
+      "respuesta_correcta": "B"
+    },
+    {
+      "id": 223,
+      "tema": 4,
+      "pregunta": "Respecto a Los niveles asistenciales del Sistema Sanitario Público del Principado, ¿cuál es la afirmación correcta según el temario?",
+      "opciones": {
+        "A": "Atención judicial y educativa",
+        "B": "Solo Atención Primaria",
+        "C": "Solo Atención Hospitalaria",
+        "D": "Atención Primaria y Atención Hospitalaria"
+      },
+      "respuesta_correcta": "D"
+    },
+    {
+      "id": 224,
+      "tema": 4,
+      "pregunta": "Indica la opción correcta sobre También existen servicios de Atención de urgencias y emergencias. según el material de estudio.",
+      "opciones": {
+        "A": "Solo atención privada",
+        "B": "Solo atención administrativa",
+        "C": "Solo atención educativa",
+        "D": "Atención de urgencias y emergencias"
+      },
+      "respuesta_correcta": "D"
+    },
+    {
+      "id": 225,
+      "tema": 4,
+      "pregunta": "Según el temario, ¿qué se indica sobre La Atención Primaria?",
+      "opciones": {
+        "A": "La primera atención",
+        "B": "El tercer nivel",
+        "C": "El segundo nivel",
+        "D": "La última atención"
+      },
+      "respuesta_correcta": "A"
+    },
+    {
+      "id": 226,
+      "tema": 4,
+      "pregunta": "De acuerdo con el tema, ¿cuál es la opción correcta sobre La Atención Primaria se basa en procedimientos sencillos realizados en Centros de Salud.?",
+      "opciones": {
+        "A": "Procedimientos sencillos en Centros de Salud",
+        "B": "Solo hospitalización",
+        "C": "Cirugía exclusivamente",
+        "D": "Procedimientos judiciales"
+      },
+      "respuesta_correcta": "A"
+    },
+    {
+      "id": 227,
+      "tema": 4,
+      "pregunta": "Respecto a La Atención Primaria, ¿cuál es la afirmación correcta según el temario?",
+      "opciones": {
+        "A": "Promoción y prevención",
+        "B": "Solo hospitalización",
+        "C": "Solo investigación",
+        "D": "Solo cirugía"
+      },
+      "respuesta_correcta": "A"
+    },
+    {
+      "id": 228,
+      "tema": 4,
+      "pregunta": "Indica la opción correcta sobre La Atención Primaria según el material de estudio.",
+      "opciones": {
+        "A": "Solo a los funcionarios",
+        "B": "A toda la población",
+        "C": "Solo a las ciudades",
+        "D": "Solo a los hospitales"
+      },
+      "respuesta_correcta": "B"
+    },
+    {
+      "id": 229,
+      "tema": 4,
+      "pregunta": "Según el temario, ¿qué se indica sobre El Equipo de Atención Primaria?",
+      "opciones": {
+        "A": "Todo el personal necesario",
+        "B": "Solo médicos",
+        "C": "Solo administrativos",
+        "D": "Solo enfermeros"
+      },
+      "respuesta_correcta": "A"
+    },
+    {
+      "id": 230,
+      "tema": 4,
+      "pregunta": "De acuerdo con el tema, ¿cuál es la opción correcta sobre La Consejería de Salud establece los requisitos mínimos de los Centros de Atención Primaria.?",
+      "opciones": {
+        "A": "Los sindicatos",
+        "B": "Los ayuntamientos",
+        "C": "El Congreso",
+        "D": "La Consejería de Salud"
+      },
+      "respuesta_correcta": "D"
+    },
+    {
+      "id": 231,
+      "tema": 4,
+      "pregunta": "Respecto a La Atención Hospitalaria, ¿cuál es la afirmación correcta según el temario?",
+      "opciones": {
+        "A": "El primero",
+        "B": "El tercero",
+        "C": "El último",
+        "D": "El segundo nivel asistencial"
+      },
+      "respuesta_correcta": "D"
+    },
+    {
+      "id": 232,
+      "tema": 4,
+      "pregunta": "Indica la opción correcta sobre La Atención Hospitalaria trata procesos que no según el material de estudio.",
+      "opciones": {
+        "A": "Procesos que no pueden atenderse en Atención Primaria",
+        "B": "Solo vacunación",
+        "C": "Solo prevención",
+        "D": "Solo procesos administrativos"
+      },
+      "respuesta_correcta": "A"
+    },
+    {
+      "id": 233,
+      "tema": 4,
+      "pregunta": "Según el temario, ¿qué se indica sobre Cada Área de Salud y cada Distrito de Salud?",
+      "opciones": {
+        "A": "Solo centros privados",
+        "B": "Al menos un hospital general",
+        "C": "Ningún hospital",
+        "D": "Dos hospitales obligatorios"
+      },
+      "respuesta_correcta": "B"
+    },
+    {
+      "id": 234,
+      "tema": 4,
+      "pregunta": "De acuerdo con el tema, ¿cuál es la opción correcta sobre Los Centros de Especialidades?",
+      "opciones": {
+        "A": "Del ayuntamiento",
+        "B": "Del Consejo de Gobierno",
+        "C": "De los sindicatos",
+        "D": "Del hospital general"
+      },
+      "respuesta_correcta": "D"
+    },
+    {
+      "id": 235,
+      "tema": 4,
+      "pregunta": "Respecto a Dentro de Atención Primaria existen puntos de atención continuada., ¿cuál es la afirmación correcta según el temario?",
+      "opciones": {
+        "A": "Solo consultas privadas",
+        "B": "Solo juzgados",
+        "C": "Solo hospitales",
+        "D": "Puntos de atención continuada"
+      },
+      "respuesta_correcta": "D"
+    },
+    {
+      "id": 236,
+      "tema": 4,
+      "pregunta": "Indica la opción correcta sobre Dentro de Atención Primaria existen servicios de urgencia de atención primaria. según el material de estudio.",
+      "opciones": {
+        "A": "Servicios electorales",
+        "B": "Servicios universitarios",
+        "C": "Servicios judiciales",
+        "D": "Servicios de urgencia de atención primaria"
+      },
+      "respuesta_correcta": "D"
+    },
+    {
+      "id": 237,
+      "tema": 4,
+      "pregunta": "Según el temario, ¿qué se indica sobre Dentro de Atención Primaria existen servicios de atención médica urgente.?",
+      "opciones": {
+        "A": "Servicios educativos",
+        "B": "Servicios fiscales",
+        "C": "Servicios administrativos",
+        "D": "Servicios de atención médica urgente"
+      },
+      "respuesta_correcta": "D"
+    },
+    {
+      "id": 238,
+      "tema": 4,
+      "pregunta": "De acuerdo con el tema, ¿cuál es la opción correcta sobre En Atención Hospitalaria los propios hospitales dan servicios a urgencias y emergencias.?",
+      "opciones": {
+        "A": "Los propios hospitales",
+        "B": "Los colegios",
+        "C": "Los sindicatos",
+        "D": "Los ayuntamientos"
+      },
+      "respuesta_correcta": "A"
+    },
+    {
+      "id": 239,
+      "tema": 4,
+      "pregunta": "Respecto a Las llamadas para servicios de urgencias y emergencias se coordinan a través del teléfono 1-1-2., ¿cuál es la afirmación correcta según el temario?",
+      "opciones": {
+        "A": "1-0-0",
+        "B": "0-6-1",
+        "C": "1-1-2",
+        "D": "9-1-1"
+      },
+      "respuesta_correcta": "C"
+    },
+    {
+      "id": 240,
+      "tema": 4,
+      "pregunta": "Indica la opción correcta sobre El teléfono 1-1-2 según el material de estudio.",
+      "opciones": {
+        "A": "Del Ayuntamiento de Oviedo",
+        "B": "Del Servicio de Emergencias del Principado de Asturias",
+        "C": "Del Ministerio",
+        "D": "Del SESPA exclusivamente"
+      },
+      "respuesta_correcta": "B"
+    },
+    {
+      "id": 241,
+      "tema": 4,
+      "pregunta": "Según el temario, ¿qué se indica sobre Los órganos centrales del SESPA incluyen el Consejo de Administración.?",
+      "opciones": {
+        "A": "Solo el Gerente de Área",
+        "B": "El Consejo de Administración",
+        "C": "El Ayuntamiento",
+        "D": "El Senado"
+      },
+      "respuesta_correcta": "B"
+    },
+    {
+      "id": 242,
+      "tema": 4,
+      "pregunta": "De acuerdo con el tema, ¿cuál es la opción correcta sobre Entre los órganos centrales del SESPA?",
+      "opciones": {
+        "A": "El Tribunal Superior",
+        "B": "La Dirección Gerencia",
+        "C": "El Consejo Escolar",
+        "D": "La Junta General"
+      },
+      "respuesta_correcta": "B"
+    },
+    {
+      "id": 243,
+      "tema": 4,
+      "pregunta": "Respecto a Entre los órganos centrales del SESPA, ¿cuál es la afirmación correcta según el temario?",
+      "opciones": {
+        "A": "El Consejo de Dirección",
+        "B": "El Senado",
+        "C": "El Consejo de Gobierno autonómico",
+        "D": "El Ayuntamiento"
+      },
+      "respuesta_correcta": "A"
+    },
+    {
+      "id": 244,
+      "tema": 4,
+      "pregunta": "Indica la opción correcta sobre El Consejo de Administración del SESPA según el material de estudio.",
+      "opciones": {
+        "A": "El Alcalde",
+        "B": "El Consejero de Sanidad",
+        "C": "El Gerente de Área",
+        "D": "El Presidente del Gobierno de España"
+      },
+      "respuesta_correcta": "B"
+    },
+    {
+      "id": 245,
+      "tema": 4,
+      "pregunta": "Según el temario, ¿qué se indica sobre El Vicepresidente del Consejo de Administración?",
+      "opciones": {
+        "A": "El Presidente del Principado",
+        "B": "El Alcalde",
+        "C": "Un Director General nombrado por el Consejero de Sanidad",
+        "D": "El Gerente de Área"
+      },
+      "respuesta_correcta": "C"
+    },
+    {
+      "id": 246,
+      "tema": 4,
+      "pregunta": "De acuerdo con el tema, ¿cuál es la opción correcta sobre El Consejo de Administración?",
+      "opciones": {
+        "A": "Dos",
+        "B": "Cuatro miembros",
+        "C": "Seis",
+        "D": "Tres"
+      },
+      "respuesta_correcta": "B"
+    },
+    {
+      "id": 247,
+      "tema": 4,
+      "pregunta": "Respecto a El Consejo de Administración, ¿cuál es la afirmación correcta según el temario?",
+      "opciones": {
+        "A": "Dos miembros",
+        "B": "Tres",
+        "C": "Cuatro",
+        "D": "Uno"
+      },
+      "respuesta_correcta": "A"
+    },
+    {
+      "id": 248,
+      "tema": 4,
+      "pregunta": "Indica la opción correcta sobre El Consejo de Administración según el material de estudio.",
+      "opciones": {
+        "A": "Uno",
+        "B": "Seis",
+        "C": "Dos miembros",
+        "D": "Cuatro"
+      },
+      "respuesta_correcta": "C"
+    },
+    {
+      "id": 249,
+      "tema": 4,
+      "pregunta": "Según el temario, ¿qué se indica sobre El Consejo de Administración?",
+      "opciones": {
+        "A": "Tres miembros profesionales sanitarios",
+        "B": "Cuatro",
+        "C": "Cinco",
+        "D": "Dos"
+      },
+      "respuesta_correcta": "A"
+    },
+    {
+      "id": 250,
+      "tema": 4,
+      "pregunta": "De acuerdo con el tema, ¿cuál es la opción correcta sobre El Consejo de Administración?",
+      "opciones": {
+        "A": "Dos miembros",
+        "B": "Cuatro",
+        "C": "Uno",
+        "D": "Tres"
+      },
+      "respuesta_correcta": "A"
+    },
+    {
+      "id": 251,
+      "tema": 4,
+      "pregunta": "Respecto a El Secretario del Consejo de Administración, ¿cuál es la afirmación correcta según el temario?",
+      "opciones": {
+        "A": "Por la Junta General",
+        "B": "Por los sindicatos",
+        "C": "Por el Consejero de Sanidad",
+        "D": "Por el Gerente"
+      },
+      "respuesta_correcta": "C"
+    },
+    {
+      "id": 252,
+      "tema": 4,
+      "pregunta": "Indica la opción correcta sobre El Secretario del Consejo de Administración según el material de estudio.",
+      "opciones": {
+        "A": "Voto, pero no voz",
+        "B": "Voz, pero no voto",
+        "C": "Voto doble",
+        "D": "Ni voz ni voto"
+      },
+      "respuesta_correcta": "B"
+    },
+    {
+      "id": 253,
+      "tema": 4,
+      "pregunta": "Según el temario, ¿qué se indica sobre El Consejo de Administración?",
+      "opciones": {
+        "A": "Aprobar leyes estatales",
+        "B": "Nombrar al Presidente",
+        "C": "Aprobar un proyecto de presupuesto",
+        "D": "Crear municipios"
+      },
+      "respuesta_correcta": "C"
+    },
+    {
+      "id": 254,
+      "tema": 4,
+      "pregunta": "De acuerdo con el tema, ¿cuál es la opción correcta sobre El Consejo de Administración?",
+      "opciones": {
+        "A": "Aprobar la Constitución",
+        "B": "Nombrar jueces",
+        "C": "Organizar cómo actúa el SESPA",
+        "D": "Convocar elecciones generales"
+      },
+      "respuesta_correcta": "C"
+    },
+    {
+      "id": 255,
+      "tema": 4,
+      "pregunta": "Respecto a El Consejo de Administración aprueba las cuentas del SESPA., ¿cuál es la afirmación correcta según el temario?",
+      "opciones": {
+        "A": "Las cuentas municipales",
+        "B": "Las cuentas del SESPA",
+        "C": "Las cuentas de empresas privadas",
+        "D": "Las cuentas del Estado"
+      },
+      "respuesta_correcta": "B"
+    },
+    {
+      "id": 256,
+      "tema": 4,
+      "pregunta": "Indica la opción correcta sobre El Consejo de Administración hace planes y programas de actuación del SESPA. según el material de estudio.",
+      "opciones": {
+        "A": "Planes educativos",
+        "B": "Planes electorales",
+        "C": "Planes judiciales",
+        "D": "Planes y programas de actuación del SESPA"
+      },
+      "respuesta_correcta": "D"
+    },
+    {
+      "id": 257,
+      "tema": 4,
+      "pregunta": "Según el temario, ¿qué se indica sobre El Consejo de Administración aprueba la memoria anual del SESPA.?",
+      "opciones": {
+        "A": "El mapa judicial",
+        "B": "La Constitución",
+        "C": "La memoria anual",
+        "D": "El Estatuto de Autonomía"
+      },
+      "respuesta_correcta": "C"
+    },
+    {
+      "id": 258,
+      "tema": 4,
+      "pregunta": "De acuerdo con el tema, ¿cuál es la opción correcta sobre El Consejo de Administración se reúne ordinariamente al menos cada dos meses.?",
+      "opciones": {
+        "A": "Cada seis meses",
+        "B": "Una vez al año",
+        "C": "Al menos cada dos meses",
+        "D": "Cada semana"
+      },
+      "respuesta_correcta": "C"
+    },
+    {
+      "id": 259,
+      "tema": 4,
+      "pregunta": "Respecto a El Presidente del Consejo de Administración convoca las reuniones., ¿cuál es la afirmación correcta según el temario?",
+      "opciones": {
+        "A": "Aprobar leyes estatales",
+        "B": "Convocar las reuniones",
+        "C": "Nombrar jueces",
+        "D": "Solo asistir"
+      },
+      "respuesta_correcta": "B"
+    },
+    {
+      "id": 260,
+      "tema": 4,
+      "pregunta": "Indica la opción correcta sobre El Presidente del Consejo de Administración preside las reuniones. según el material de estudio.",
+      "opciones": {
+        "A": "Aprobar presupuestos estatales",
+        "B": "Gestionar hospitales",
+        "C": "Presidir las reuniones",
+        "D": "Solo redactar actas"
+      },
+      "respuesta_correcta": "C"
+    },
+    {
+      "id": 261,
+      "tema": 4,
+      "pregunta": "Según el temario, ¿qué se indica sobre El Presidente fija el orden del día de las reuniones.?",
+      "opciones": {
+        "A": "Elegir diputados",
+        "B": "Nombrar médicos",
+        "C": "Fijar el orden del día",
+        "D": "Aprobar leyes nacionales"
+      },
+      "respuesta_correcta": "C"
+    },
+    {
+      "id": 262,
+      "tema": 4,
+      "pregunta": "De acuerdo con el tema, ¿cuál es la opción correcta sobre El Presidente vigila que se cumplan los acuerdos adoptados.?",
+      "opciones": {
+        "A": "Gestionar municipios",
+        "B": "Crear convenios",
+        "C": "Controlar elecciones",
+        "D": "Vigilar el cumplimiento de los acuerdos"
+      },
+      "respuesta_correcta": "D"
+    },
+    {
+      "id": 263,
+      "tema": 4,
+      "pregunta": "Respecto a En decisiones urgentes, el Presidente, ¿cuál es la afirmación correcta según el temario?",
+      "opciones": {
+        "A": "Debe informar antes",
+        "B": "Tomar decisiones urgentes e informar después",
+        "C": "No puede decidir nunca",
+        "D": "Debe esperar siempre"
+      },
+      "respuesta_correcta": "B"
+    },
+    {
+      "id": 264,
+      "tema": 4,
+      "pregunta": "Indica la opción correcta sobre El Director Gerente según el material de estudio.",
+      "opciones": {
+        "A": "El Ayuntamiento",
+        "B": "El Director Gerente",
+        "C": "El Consejo de Salud de Área",
+        "D": "El Senado"
+      },
+      "respuesta_correcta": "B"
+    },
+    {
+      "id": 265,
+      "tema": 4,
+      "pregunta": "Según el temario, ¿qué se indica sobre El Director Gerente?",
+      "opciones": {
+        "A": "Representar a la Junta General",
+        "B": "Representar a los municipios",
+        "C": "Representar al Estado",
+        "D": "Representar al SESPA"
+      },
+      "respuesta_correcta": "D"
+    },
+    {
+      "id": 266,
+      "tema": 4,
+      "pregunta": "De acuerdo con el tema, ¿cuál es la opción correcta sobre El Director Gerente?",
+      "opciones": {
+        "A": "Aprobar leyes",
+        "B": "Ignorarlos",
+        "C": "Modificar la Constitución",
+        "D": "Hacer cumplir los acuerdos del Consejo"
+      },
+      "respuesta_correcta": "D"
+    },
+    {
+      "id": 267,
+      "tema": 4,
+      "pregunta": "Respecto a El Director Gerente, ¿cuál es la afirmación correcta según el temario?",
+      "opciones": {
+        "A": "50.000 euros",
+        "B": "7.500 euros",
+        "C": "100.000 euros",
+        "D": "75.000 euros"
+      },
+      "respuesta_correcta": "D"
+    },
+    {
+      "id": 268,
+      "tema": 4,
+      "pregunta": "Indica la opción correcta sobre El Director Gerente según el material de estudio.",
+      "opciones": {
+        "A": "Nombrar alcaldes",
+        "B": "Nombrar diputados",
+        "C": "Nombrar al personal estatutario",
+        "D": "Nombrar al Presidente"
+      },
+      "respuesta_correcta": "C"
+    },
+    {
+      "id": 269,
+      "tema": 4,
+      "pregunta": "Según el temario, ¿qué se indica sobre El Director Gerente?",
+      "opciones": {
+        "A": "La oferta municipal",
+        "B": "La oferta educativa",
+        "C": "La oferta electoral",
+        "D": "La oferta pública de empleo"
+      },
+      "respuesta_correcta": "D"
+    },
+    {
+      "id": 270,
+      "tema": 4,
+      "pregunta": "De acuerdo con el tema, ¿cuál es la opción correcta sobre El Director Gerente?",
+      "opciones": {
+        "A": "Convocar plenos municipales",
+        "B": "Convocar las bases de las oposiciones",
+        "C": "Convocar referéndums",
+        "D": "Convocar elecciones generales"
+      },
+      "respuesta_correcta": "B"
+    },
+    {
+      "id": 271,
+      "tema": 4,
+      "pregunta": "Respecto a El Director Gerente, ¿cuál es la afirmación correcta según el temario?",
+      "opciones": {
+        "A": "Conceder subvenciones estatales",
+        "B": "Conceder becas universitarias",
+        "C": "Conceder permisos y licencias",
+        "D": "Conceder indultos"
+      },
+      "respuesta_correcta": "C"
+    },
+    {
+      "id": 272,
+      "tema": 4,
+      "pregunta": "Indica la opción correcta sobre El Consejo de Dirección del SESPA según el material de estudio.",
+      "opciones": {
+        "A": "La Junta General",
+        "B": "El Director Gerente y el Secretario General del SESPA",
+        "C": "Solo el Consejero",
+        "D": "Solo el Gerente de Área"
+      },
+      "respuesta_correcta": "B"
+    },
+    {
+      "id": 273,
+      "tema": 4,
+      "pregunta": "Según el temario, ¿qué se indica sobre El Consejo de Dirección apoya y ayuda al Director Gerente en la toma de decisiones.?",
+      "opciones": {
+        "A": "Apoyar y ayudar al Director Gerente",
+        "B": "Sustituir al Gobierno",
+        "C": "Nombrar diputados",
+        "D": "Aprobar leyes"
+      },
+      "respuesta_correcta": "A"
+    },
+    {
+      "id": 274,
+      "tema": 4,
+      "pregunta": "De acuerdo con el tema, ¿cuál es la opción correcta sobre Los órganos de dirección de las Áreas de Salud incluyen el Consejo de Salud de Área y la Gerencia del Área de Salud.?",
+      "opciones": {
+        "A": "Solo ayuntamientos",
+        "B": "Solo hospitales",
+        "C": "Solo sindicatos",
+        "D": "Consejo de Salud de Área y Gerencia del Área de Salud"
+      },
+      "respuesta_correcta": "D"
+    },
+    {
+      "id": 275,
+      "tema": 4,
+      "pregunta": "Respecto a En el mapa del SESPA, el Área de Salud de Jarrio, ¿cuál es la afirmación correcta según el temario?",
+      "opciones": {
+        "A": "Hospital Universitario Central de Asturias",
+        "B": "Hospital de Jarrio",
+        "C": "Hospital Valle del Nalón",
+        "D": "Hospital Álvarez Buylla"
+      },
+      "respuesta_correcta": "B"
+    },
+    {
+      "id": 276,
+      "tema": 4,
+      "pregunta": "Indica la opción correcta sobre El Área de Salud de Cangas del Narcea según el material de estudio.",
+      "opciones": {
+        "A": "Hospital Carmen y Severo Ochoa",
+        "B": "Hospital Universitario Cabueñes",
+        "C": "Hospital del Oriente de Asturias",
+        "D": "Hospital de Jarrio"
+      },
+      "respuesta_correcta": "A"
+    },
+    {
+      "id": 277,
+      "tema": 4,
+      "pregunta": "Según el temario, ¿qué se indica sobre El Área de Salud de Avilés?",
+      "opciones": {
+        "A": "Hospital Valle del Nalón",
+        "B": "Hospital de Jarrio",
+        "C": "Hospital Universitario San Agustín",
+        "D": "Hospital Álvarez Buylla"
+      },
+      "respuesta_correcta": "C"
+    },
+    {
+      "id": 278,
+      "tema": 4,
+      "pregunta": "De acuerdo con el tema, ¿cuál es la opción correcta sobre El Área de Salud de Oviedo?",
+      "opciones": {
+        "A": "Hospital Universitario Central de Asturias",
+        "B": "Hospital del Oriente de Asturias",
+        "C": "Hospital de Jarrio",
+        "D": "Hospital Carmen y Severo Ochoa"
+      },
+      "respuesta_correcta": "A"
+    },
+    {
+      "id": 279,
+      "tema": 4,
+      "pregunta": "Respecto a El Área de Salud de Gijón, ¿cuál es la afirmación correcta según el temario?",
+      "opciones": {
+        "A": "Hospital Álvarez Buylla",
+        "B": "Hospital Universitario Central de Asturias",
+        "C": "Hospital de Jarrio",
+        "D": "Hospital Universitario Cabueñes"
+      },
+      "respuesta_correcta": "D"
+    },
+    {
+      "id": 280,
+      "tema": 4,
+      "pregunta": "Indica la opción correcta sobre El Área de Salud de Langreo según el material de estudio.",
+      "opciones": {
+        "A": "Hospital Valle del Nalón",
+        "B": "Hospital de Jarrio",
+        "C": "Hospital Universitario Cabueñes",
+        "D": "Hospital del Oriente de Asturias"
+      },
+      "respuesta_correcta": "A"
+    },
+    {
+      "id": 281,
+      "tema": 5,
+      "pregunta": "Según el temario, ¿qué se indica sobre El Estatuto de Autonomía del Principado de Asturias?",
+      "opciones": {
+        "A": "30 de diciembre de 1981",
+        "B": "29 de marzo de 2019",
+        "C": "11 de marzo de 2011",
+        "D": "6 de diciembre de 1978"
+      },
+      "respuesta_correcta": "A"
+    },
+    {
+      "id": 282,
+      "tema": 5,
+      "pregunta": "De acuerdo con el tema, ¿cuál es la opción correcta sobre El Estatuto de Autonomía?",
+      "opciones": {
+        "A": "Solo los impuestos estatales",
+        "B": "Solo los hospitales",
+        "C": "Funcionamiento, competencias e instituciones",
+        "D": "Solo los municipios"
+      },
+      "respuesta_correcta": "C"
+    },
+    {
+      "id": 283,
+      "tema": 5,
+      "pregunta": "Respecto a El Título Preliminar trata el territorio, ¿cuál es la afirmación correcta según el temario?",
+      "opciones": {
+        "A": "Solo presupuesto",
+        "B": "Solo sanidad",
+        "C": "Solo empleo",
+        "D": "Territorio, asturianos, símbolos e idioma"
+      },
+      "respuesta_correcta": "D"
+    },
+    {
+      "id": 284,
+      "tema": 5,
+      "pregunta": "Indica la opción correcta sobre Las normas principales del Principado según el material de estudio.",
+      "opciones": {
+        "A": "Solo leyes estatales",
+        "B": "La Constitución y el Estatuto de Autonomía",
+        "C": "Solo reglamentos",
+        "D": "Solo ordenanzas municipales"
+      },
+      "respuesta_correcta": "B"
+    },
+    {
+      "id": 285,
+      "tema": 5,
+      "pregunta": "Según el temario, ¿qué se indica sobre El Principado de Asturias?",
+      "opciones": {
+        "A": "Provincias",
+        "B": "Distritos judiciales",
+        "C": "Concejos",
+        "D": "Cantones"
+      },
+      "respuesta_correcta": "C"
+    },
+    {
+      "id": 286,
+      "tema": 5,
+      "pregunta": "De acuerdo con el tema, ¿cuál es la opción correcta sobre Concejos y municipios?",
+      "opciones": {
+        "A": "Solo se parecen",
+        "B": "Son instituciones distintas",
+        "C": "Sí, son lo mismo",
+        "D": "Uno pertenece al Estado"
+      },
+      "respuesta_correcta": "C"
+    },
+    {
+      "id": 287,
+      "tema": 5,
+      "pregunta": "Respecto a Asturias, ¿cuál es la afirmación correcta según el temario?",
+      "opciones": {
+        "A": "Un referéndum nacional obligatorio",
+        "B": "Una ordenanza municipal",
+        "C": "Las reglas del artículo 43",
+        "D": "Las reglas del artículo 56"
+      },
+      "respuesta_correcta": "D"
+    },
+    {
+      "id": 288,
+      "tema": 5,
+      "pregunta": "Indica la opción correcta sobre La bandera de Asturias según el material de estudio.",
+      "opciones": {
+        "A": "Fondo amarillo y cruz azul",
+        "B": "Fondo verde y cruz amarilla",
+        "C": "Fondo rojo y cruz blanca",
+        "D": "Fondo azul y Cruz de la Victoria amarilla"
+      },
+      "respuesta_correcta": "D"
+    },
+    {
+      "id": 289,
+      "tema": 5,
+      "pregunta": "Según el temario, ¿qué se indica sobre El Principado de Asturias?",
+      "opciones": {
+        "A": "Solo tiene bandera",
+        "B": "Su propio escudo",
+        "C": "Comparte escudo con España",
+        "D": "No tiene escudo"
+      },
+      "respuesta_correcta": "B"
+    },
+    {
+      "id": 290,
+      "tema": 5,
+      "pregunta": "De acuerdo con el tema, ¿cuál es la opción correcta sobre El himno de Asturias?",
+      "opciones": {
+        "A": "Asturias, patria querida",
+        "B": "Asturias, tierra verde",
+        "C": "Puxa Asturias",
+        "D": "Asturias del alma"
+      },
+      "respuesta_correcta": "A"
+    },
+    {
+      "id": 291,
+      "tema": 5,
+      "pregunta": "Respecto a El himno de Asturias, ¿cuál es la afirmación correcta según el temario?",
+      "opciones": {
+        "A": "Solo en bable",
+        "B": "Solo en castellano",
+        "C": "En castellano y en bable",
+        "D": "En tres idiomas"
+      },
+      "respuesta_correcta": "C"
+    },
+    {
+      "id": 292,
+      "tema": 5,
+      "pregunta": "Indica la opción correcta sobre En Asturias se habla castellano y el castellano según el material de estudio.",
+      "opciones": {
+        "A": "Solo el bable",
+        "B": "El castellano",
+        "C": "Solo el catalán",
+        "D": "Solo el gallego"
+      },
+      "respuesta_correcta": "B"
+    },
+    {
+      "id": 293,
+      "tema": 5,
+      "pregunta": "Según el temario, ¿qué se indica sobre El bable o asturiano?",
+      "opciones": {
+        "A": "El vasco",
+        "B": "El bable o asturiano",
+        "C": "El gallego",
+        "D": "El castellano"
+      },
+      "respuesta_correcta": "B"
+    },
+    {
+      "id": 294,
+      "tema": 5,
+      "pregunta": "De acuerdo con el tema, ¿cuál es la opción correcta sobre El Principado de Asturias protegerá el bable.?",
+      "opciones": {
+        "A": "Ninguna lengua",
+        "B": "El bable",
+        "C": "Solo las lenguas extranjeras",
+        "D": "Solo el castellano"
+      },
+      "respuesta_correcta": "B"
+    },
+    {
+      "id": 295,
+      "tema": 5,
+      "pregunta": "Respecto a El Principado facilitará el uso del bable entre los asturianos., ¿cuál es la afirmación correcta según el temario?",
+      "opciones": {
+        "A": "Facilitar el uso del bable",
+        "B": "Eliminarlo de los colegios",
+        "C": "Prohibirlo",
+        "D": "Impedirlo en medios"
+      },
+      "respuesta_correcta": "A"
+    },
+    {
+      "id": 296,
+      "tema": 5,
+      "pregunta": "Indica la opción correcta sobre El Principado intentará que el bable se use en los medios de comunicación. según el material de estudio.",
+      "opciones": {
+        "A": "Solo en hospitales",
+        "B": "Solo en tribunales",
+        "C": "En los medios de comunicación",
+        "D": "Solo en ayuntamientos"
+      },
+      "respuesta_correcta": "C"
+    },
+    {
+      "id": 297,
+      "tema": 5,
+      "pregunta": "Según el temario, ¿qué se indica sobre El Principado enseñará el bable en los colegios.?",
+      "opciones": {
+        "A": "Solo en hospitales",
+        "B": "En los colegios",
+        "C": "Solo en universidades",
+        "D": "Solo en empresas"
+      },
+      "respuesta_correcta": "B"
+    },
+    {
+      "id": 298,
+      "tema": 5,
+      "pregunta": "De acuerdo con el tema, ¿cuál es la opción correcta sobre Nadie estará obligado a aprender bable o a usarlo.?",
+      "opciones": {
+        "A": "Solo los estudiantes",
+        "B": "Nadie",
+        "C": "Todos los asturianos",
+        "D": "Solo los funcionarios"
+      },
+      "respuesta_correcta": "B"
+    },
+    {
+      "id": 299,
+      "tema": 5,
+      "pregunta": "Respecto a Las instituciones del Principado, ¿cuál es la afirmación correcta según el temario?",
+      "opciones": {
+        "A": "Mieres",
+        "B": "Gijón",
+        "C": "Oviedo",
+        "D": "Avilés"
+      },
+      "respuesta_correcta": "C"
+    },
+    {
+      "id": 300,
+      "tema": 5,
+      "pregunta": "Indica la opción correcta sobre El Principado según el material de estudio.",
+      "opciones": {
+        "A": "Municipios y comarcas",
+        "B": "Solo distritos",
+        "C": "Solo provincias",
+        "D": "Solo parroquias"
+      },
+      "respuesta_correcta": "A"
+    },
+    {
+      "id": 301,
+      "tema": 5,
+      "pregunta": "Según el temario, ¿qué se indica sobre En Asturias a los municipios se les llama concejos.?",
+      "opciones": {
+        "A": "Parroquias",
+        "B": "Concejos",
+        "C": "Distritos",
+        "D": "Comarcas"
+      },
+      "respuesta_correcta": "B"
+    },
+    {
+      "id": 302,
+      "tema": 5,
+      "pregunta": "De acuerdo con el tema, ¿cuál es la opción correcta sobre Tradicionalmente?",
+      "opciones": {
+        "A": "Provincias",
+        "B": "Áreas de Salud",
+        "C": "Parroquias",
+        "D": "Distritos"
+      },
+      "respuesta_correcta": "C"
+    },
+    {
+      "id": 303,
+      "tema": 5,
+      "pregunta": "Respecto a El Estatuto de Autonomía, ¿cuál es la afirmación correcta según el temario?",
+      "opciones": {
+        "A": "Las provincias",
+        "B": "Los departamentos",
+        "C": "Los cantones",
+        "D": "Las parroquias"
+      },
+      "respuesta_correcta": "D"
+    },
+    {
+      "id": 304,
+      "tema": 5,
+      "pregunta": "Indica la opción correcta sobre Se según el material de estudio.",
+      "opciones": {
+        "A": "Provincias nuevas",
+        "B": "Áreas Metropolitanas",
+        "C": "Senados locales",
+        "D": "Áreas judiciales"
+      },
+      "respuesta_correcta": "B"
+    },
+    {
+      "id": 305,
+      "tema": 5,
+      "pregunta": "Según el temario, ¿qué se indica sobre Las Áreas Metropolitanas?",
+      "opciones": {
+        "A": "Solo hospitales",
+        "B": "Solo empresas",
+        "C": "Una ciudad y los concejos de alrededor",
+        "D": "Solo municipios lejanos"
+      },
+      "respuesta_correcta": "C"
+    },
+    {
+      "id": 306,
+      "tema": 5,
+      "pregunta": "De acuerdo con el tema, ¿cuál es la opción correcta sobre Son asturianos los españoles con residencia en Asturias.?",
+      "opciones": {
+        "A": "Los españoles con residencia en Asturias",
+        "B": "Solo nacidos en Asturias",
+        "C": "Solo residentes extranjeros",
+        "D": "Solo funcionarios"
+      },
+      "respuesta_correcta": "A"
+    },
+    {
+      "id": 307,
+      "tema": 5,
+      "pregunta": "Respecto a También, ¿cuál es la afirmación correcta según el temario?",
+      "opciones": {
+        "A": "Solo funcionarios",
+        "B": "Solo extranjeros",
+        "C": "Los españoles que viven en el extranjero y residieron en Asturias antes de marcharse",
+        "D": "Solo nacidos fuera"
+      },
+      "respuesta_correcta": "C"
+    },
+    {
+      "id": 308,
+      "tema": 5,
+      "pregunta": "Indica la opción correcta sobre Los hijos y descendientes de esos españoles también según el material de estudio.",
+      "opciones": {
+        "A": "Solo sus compañeros",
+        "B": "Solo sus vecinos",
+        "C": "Solo sus cónyuges",
+        "D": "Sus hijos y descendientes"
+      },
+      "respuesta_correcta": "D"
+    },
+    {
+      "id": 309,
+      "tema": 5,
+      "pregunta": "Según el temario, ¿qué se indica sobre Los asturianos que viven fuera de España?",
+      "opciones": {
+        "A": "Solo partidos",
+        "B": "Solo sindicatos",
+        "C": "Grupos o asociaciones",
+        "D": "Solo empresas"
+      },
+      "respuesta_correcta": "C"
+    },
+    {
+      "id": 310,
+      "tema": 5,
+      "pregunta": "De acuerdo con el tema, ¿cuál es la opción correcta sobre Las asociaciones de asturianos que viven en el extranjero se llaman Centros Asturianos.?",
+      "opciones": {
+        "A": "Centros de Salud",
+        "B": "Centros Asturianos",
+        "C": "Casas de Asturias estatales",
+        "D": "Concejos Asturianos"
+      },
+      "respuesta_correcta": "B"
+    },
+    {
+      "id": 311,
+      "tema": 5,
+      "pregunta": "Respecto a Los asturianos, ¿cuál es la afirmación correcta según el temario?",
+      "opciones": {
+        "A": "Más derechos",
+        "B": "Menos derechos",
+        "C": "Solo derechos sanitarios",
+        "D": "Los mismos derechos y deberes"
+      },
+      "respuesta_correcta": "D"
+    },
+    {
+      "id": 312,
+      "tema": 5,
+      "pregunta": "Indica la opción correcta sobre Los derechos y deberes de los asturianos según el material de estudio.",
+      "opciones": {
+        "A": "Solo en convenios",
+        "B": "Solo en ordenanzas",
+        "C": "Solo en reglamentos",
+        "D": "En la Constitución"
+      },
+      "respuesta_correcta": "D"
+    },
+    {
+      "id": 313,
+      "tema": 5,
+      "pregunta": "Según el temario, ¿qué se indica sobre El Principado procurará que los asturianos ejerzan sus derechos y deberes con libertad.?",
+      "opciones": {
+        "A": "Con autorización previa",
+        "B": "Solo en Oviedo",
+        "C": "Con libertad",
+        "D": "Solo en el extranjero"
+      },
+      "respuesta_correcta": "C"
+    },
+    {
+      "id": 314,
+      "tema": 5,
+      "pregunta": "De acuerdo con el tema, ¿cuál es la opción correcta sobre El Principado procurará buenas condiciones de vida y trabajo para los asturianos.?",
+      "opciones": {
+        "A": "Buenas condiciones de vida y trabajo",
+        "B": "Solo vivienda",
+        "C": "Solo educación",
+        "D": "Solo empleo público"
+      },
+      "respuesta_correcta": "A"
+    },
+    {
+      "id": 315,
+      "tema": 5,
+      "pregunta": "Respecto a El Principado procurará que los asturianos participen en eventos sociales, ¿cuál es la afirmación correcta según el temario?",
+      "opciones": {
+        "A": "Solo deportivos",
+        "B": "Eventos sociales, culturales o políticos",
+        "C": "Solo religiosos",
+        "D": "Solo empresariales"
+      },
+      "respuesta_correcta": "B"
+    },
+    {
+      "id": 316,
+      "tema": 5,
+      "pregunta": "Indica la opción correcta sobre Los órganos institucionales del Principado según el material de estudio.",
+      "opciones": {
+        "A": "Solo Presidente y Junta",
+        "B": "Solo Consejo de Gobierno",
+        "C": "Junta General, Presidente y Consejo de Gobierno",
+        "D": "Tribunal y Senado"
+      },
+      "respuesta_correcta": "C"
+    },
+    {
+      "id": 317,
+      "tema": 5,
+      "pregunta": "Según el temario, ¿qué se indica sobre La Junta General del Principado?",
+      "opciones": {
+        "A": "El Tribunal Superior",
+        "B": "El Ayuntamiento",
+        "C": "El Gobierno de Asturias",
+        "D": "El Parlamento de Asturias"
+      },
+      "respuesta_correcta": "D"
+    },
+    {
+      "id": 318,
+      "tema": 5,
+      "pregunta": "De acuerdo con el tema, ¿cuál es la opción correcta sobre La Junta General?",
+      "opciones": {
+        "A": "Donde se celebran elecciones generales",
+        "B": "Donde se ejecutan sentencias",
+        "C": "Donde se hacen las leyes de Asturias",
+        "D": "Donde se gestionan hospitales"
+      },
+      "respuesta_correcta": "C"
+    },
+    {
+      "id": 319,
+      "tema": 5,
+      "pregunta": "Respecto a La Junta General, ¿cuál es la afirmación correcta según el temario?",
+      "opciones": {
+        "A": "Al pueblo asturiano",
+        "B": "A los sindicatos",
+        "C": "Al Gobierno de España",
+        "D": "A los municipios exclusivamente"
+      },
+      "respuesta_correcta": "A"
+    },
+    {
+      "id": 320,
+      "tema": 5,
+      "pregunta": "Indica la opción correcta sobre Los miembros de la Junta General según el material de estudio.",
+      "opciones": {
+        "A": "Diputados y diputadas",
+        "B": "Concejales",
+        "C": "Ministros",
+        "D": "Senadores"
+      },
+      "respuesta_correcta": "A"
+    },
+    {
+      "id": 321,
+      "tema": 5,
+      "pregunta": "Según el temario, ¿qué se indica sobre Los diputados y diputadas?",
+      "opciones": {
+        "A": "Cada 4 años",
+        "B": "Cada 2 años",
+        "C": "Cada 6 años",
+        "D": "Cada 5 años"
+      },
+      "respuesta_correcta": "A"
+    },
+    {
+      "id": 322,
+      "tema": 5,
+      "pregunta": "De acuerdo con el tema, ¿cuál es la opción correcta sobre El voto en las elecciones a la Junta General?",
+      "opciones": {
+        "A": "Indirecto y público",
+        "B": "Solo libre",
+        "C": "Solo secreto",
+        "D": "Igual, libre, directo y secreto"
+      },
+      "respuesta_correcta": "D"
+    },
+    {
+      "id": 323,
+      "tema": 5,
+      "pregunta": "Respecto a Las elecciones a la Junta General las convoca el Presidente del Principado., ¿cuál es la afirmación correcta según el temario?",
+      "opciones": {
+        "A": "El Rey",
+        "B": "El Consejo de Gobierno",
+        "C": "El Congreso",
+        "D": "El Presidente del Principado"
+      },
+      "respuesta_correcta": "D"
+    },
+    {
+      "id": 324,
+      "tema": 5,
+      "pregunta": "Indica la opción correcta sobre Por regla general, las elecciones según el material de estudio.",
+      "opciones": {
+        "A": "El segundo domingo de abril",
+        "B": "El último domingo de diciembre",
+        "C": "El cuarto domingo de mayo",
+        "D": "El primer domingo de junio"
+      },
+      "respuesta_correcta": "C"
+    },
+    {
+      "id": 325,
+      "tema": 5,
+      "pregunta": "Según el temario, ¿qué se indica sobre La principal función de la Junta General?",
+      "opciones": {
+        "A": "Aprobar leyes en Asturias",
+        "B": "Juzgar delitos",
+        "C": "Ejecutar leyes",
+        "D": "Dirigir hospitales"
+      },
+      "respuesta_correcta": "A"
+    },
+    {
+      "id": 326,
+      "tema": 5,
+      "pregunta": "De acuerdo con el tema, ¿cuál es la opción correcta sobre La función de aprobar leyes?",
+      "opciones": {
+        "A": "Función ejecutiva",
+        "B": "Función administrativa",
+        "C": "Función judicial",
+        "D": "Función legislativa"
+      },
+      "respuesta_correcta": "D"
+    },
+    {
+      "id": 327,
+      "tema": 5,
+      "pregunta": "Respecto a La Junta General controla la acción del Consejo de Gobierno., ¿cuál es la afirmación correcta según el temario?",
+      "opciones": {
+        "A": "Nombrar al Rey",
+        "B": "Controlar ayuntamientos de toda España",
+        "C": "Controlar al Tribunal Supremo",
+        "D": "Controlar la acción del Consejo de Gobierno"
+      },
+      "respuesta_correcta": "D"
+    },
+    {
+      "id": 328,
+      "tema": 5,
+      "pregunta": "Indica la opción correcta sobre La Junta General según el material de estudio.",
+      "opciones": {
+        "A": "Dirigir hospitales",
+        "B": "Gestionar juzgados",
+        "C": "Aprobar tratados",
+        "D": "Impulsar la acción del Gobierno Asturiano"
+      },
+      "respuesta_correcta": "D"
+    },
+    {
+      "id": 329,
+      "tema": 5,
+      "pregunta": "Según el temario, ¿qué se indica sobre La Junta General aprueba los presupuestos del Principado de Asturias.?",
+      "opciones": {
+        "A": "Los presupuestos estatales",
+        "B": "Los presupuestos municipales de España",
+        "C": "Los presupuestos privados",
+        "D": "Los presupuestos del Principado"
+      },
+      "respuesta_correcta": "D"
+    },
+    {
+      "id": 330,
+      "tema": 5,
+      "pregunta": "De acuerdo con el tema, ¿cuál es la opción correcta sobre La Junta General designa entre sus miembros al Presidente del Principado.?",
+      "opciones": {
+        "A": "Al Consejo de Gobierno",
+        "B": "Al Presidente del Principado",
+        "C": "Al Rey",
+        "D": "Al Presidente del Gobierno de España"
+      },
+      "respuesta_correcta": "B"
+    },
+    {
+      "id": 331,
+      "tema": 5,
+      "pregunta": "Respecto a La Junta General establece los impuestos del Principado., ¿cuál es la afirmación correcta según el temario?",
+      "opciones": {
+        "A": "Los impuestos del Principado",
+        "B": "Solo impuestos municipales",
+        "C": "Solo tasas sanitarias",
+        "D": "Todos los impuestos estatales"
+      },
+      "respuesta_correcta": "A"
+    },
+    {
+      "id": 332,
+      "tema": 5,
+      "pregunta": "Indica la opción correcta sobre El Presidente del Principado según el material de estudio.",
+      "opciones": {
+        "A": "El Rey directamente",
+        "B": "El Consejo de Gobierno",
+        "C": "Los ayuntamientos",
+        "D": "La Junta General"
+      },
+      "respuesta_correcta": "D"
+    },
+    {
+      "id": 333,
+      "tema": 5,
+      "pregunta": "Según el temario, ¿qué se indica sobre El Presidente del Principado?",
+      "opciones": {
+        "A": "Diputado de la Junta General",
+        "B": "Ministro",
+        "C": "Alcalde",
+        "D": "Senador"
+      },
+      "respuesta_correcta": "A"
+    },
+    {
+      "id": 334,
+      "tema": 5,
+      "pregunta": "De acuerdo con el tema, ¿cuál es la opción correcta sobre El Rey nombra al Presidente del Principado.?",
+      "opciones": {
+        "A": "El Alcalde",
+        "B": "El Senado",
+        "C": "El Consejo de Gobierno",
+        "D": "El Rey"
+      },
+      "respuesta_correcta": "D"
+    },
+    {
+      "id": 335,
+      "tema": 5,
+      "pregunta": "Respecto a El Presidente del Principado, ¿cuál es la afirmación correcta según el temario?",
+      "opciones": {
+        "A": "Solo Presidente de la Junta",
+        "B": "Solo representante sanitario",
+        "C": "Presidente del Consejo de Gobierno y máximo representante",
+        "D": "Solo alcalde"
+      },
+      "respuesta_correcta": "C"
+    },
+    {
+      "id": 336,
+      "tema": 5,
+      "pregunta": "Indica la opción correcta sobre El Presidente según el material de estudio.",
+      "opciones": {
+        "A": "Dirigir y coordinar el Consejo de Gobierno",
+        "B": "Solo aprobar leyes",
+        "C": "Solo convocar elecciones",
+        "D": "Solo controlar hospitales"
+      },
+      "respuesta_correcta": "A"
+    },
+    {
+      "id": 337,
+      "tema": 5,
+      "pregunta": "Según el temario, ¿qué se indica sobre El Presidente?",
+      "opciones": {
+        "A": "Solo hospitales",
+        "B": "Solo ayuntamientos",
+        "C": "La Administración del Principado",
+        "D": "La Administración del Estado"
+      },
+      "respuesta_correcta": "C"
+    },
+    {
+      "id": 338,
+      "tema": 5,
+      "pregunta": "De acuerdo con el tema, ¿cuál es la opción correcta sobre El Presidente nombra y cesa a los Consejeros del Consejo de Gobierno.?",
+      "opciones": {
+        "A": "Nombra jueces",
+        "B": "Nombra y cesa a los Consejeros",
+        "C": "Nombra diputados",
+        "D": "Nombra alcaldes"
+      },
+      "respuesta_correcta": "B"
+    },
+    {
+      "id": 339,
+      "tema": 5,
+      "pregunta": "Respecto a El Consejo de Gobierno, ¿cuál es la afirmación correcta según el temario?",
+      "opciones": {
+        "A": "Solo diputados",
+        "B": "Solo jueces",
+        "C": "Solo alcaldes",
+        "D": "El Presidente y los Consejeros"
+      },
+      "respuesta_correcta": "D"
+    },
+    {
+      "id": 340,
+      "tema": 5,
+      "pregunta": "Indica la opción correcta sobre Puede haber un Vicepresidente del Consejo de Gobierno. según el material de estudio.",
+      "opciones": {
+        "A": "Ninguno nunca",
+        "B": "Dos vicepresidentes obligatorios",
+        "C": "Un Vicepresidente",
+        "D": "Cinco vicepresidentes"
+      },
+      "respuesta_correcta": "C"
+    },
+    {
+      "id": 341,
+      "tema": 5,
+      "pregunta": "Según el temario, ¿qué se indica sobre El Consejo de Gobierno?",
+      "opciones": {
+        "A": "Solo aprobar leyes",
+        "B": "Solo gestionar hospitales",
+        "C": "Dirigir la política en el Principado",
+        "D": "Solo controlar tribunales"
+      },
+      "respuesta_correcta": "C"
+    },
+    {
+      "id": 342,
+      "tema": 5,
+      "pregunta": "De acuerdo con el tema, ¿cuál es la opción correcta sobre El Consejo de Gobierno?",
+      "opciones": {
+        "A": "Solo la judicial",
+        "B": "La legislativa y judicial",
+        "C": "Solo la legislativa",
+        "D": "La función ejecutiva y administrativa"
+      },
+      "respuesta_correcta": "D"
+    },
+    {
+      "id": 343,
+      "tema": 5,
+      "pregunta": "Respecto a El Consejo de Gobierno, ¿cuál es la afirmación correcta según el temario?",
+      "opciones": {
+        "A": "La potestad judicial",
+        "B": "La potestad constitucional",
+        "C": "La potestad electoral",
+        "D": "La potestad reglamentaria"
+      },
+      "respuesta_correcta": "D"
+    },
+    {
+      "id": 344,
+      "tema": 5,
+      "pregunta": "Indica la opción correcta sobre La bandera de Asturias según el material de estudio.",
+      "opciones": {
+        "A": "Azul",
+        "B": "Amarillo",
+        "C": "Rojo",
+        "D": "Verde"
+      },
+      "respuesta_correcta": "A"
+    },
+    {
+      "id": 345,
+      "tema": 5,
+      "pregunta": "Según el temario, ¿qué se indica sobre La Cruz de la Victoria de la bandera de Asturias?",
+      "opciones": {
+        "A": "Azul",
+        "B": "Verde",
+        "C": "Amarillo",
+        "D": "Rojo"
+      },
+      "respuesta_correcta": "C"
+    },
+    {
+      "id": 346,
+      "tema": 5,
+      "pregunta": "De acuerdo con el tema, ¿cuál es la opción correcta sobre El escudo del Principado de Asturias?",
+      "opciones": {
+        "A": "Del propio Principado de Asturias",
+        "B": "Del SESPA",
+        "C": "De España exclusivamente",
+        "D": "De cada municipio"
+      },
+      "respuesta_correcta": "A"
+    },
+    {
+      "id": 347,
+      "tema": 5,
+      "pregunta": "Respecto a Los Centros Asturianos, ¿cuál es la afirmación correcta según el temario?",
+      "opciones": {
+        "A": "Asociaciones de asturianos que viven en el extranjero",
+        "B": "Órganos del Principado",
+        "C": "Centros sanitarios",
+        "D": "Partidos políticos"
+      },
+      "respuesta_correcta": "A"
+    },
+    {
+      "id": 348,
+      "tema": 5,
+      "pregunta": "Indica la opción correcta sobre El Estatuto de Autonomía según el material de estudio.",
+      "opciones": {
+        "A": "Los distritos judiciales",
+        "B": "Los ministerios",
+        "C": "Las provincias",
+        "D": "Las parroquias"
+      },
+      "respuesta_correcta": "D"
+    },
+    {
+      "id": 349,
+      "tema": 5,
+      "pregunta": "Según el temario, ¿qué se indica sobre La Junta General del Principado?",
+      "opciones": {
+        "A": "El Gobierno de España",
+        "B": "El Consejo de Ministros",
+        "C": "El Tribunal Supremo",
+        "D": "El Parlamento de Asturias"
+      },
+      "respuesta_correcta": "D"
+    },
+    {
+      "id": 350,
+      "tema": 6,
+      "pregunta": "De acuerdo con el tema, ¿cuál es la opción correcta sobre La Ley 2/2011?",
+      "opciones": {
+        "A": "Solo igualdad electoral",
+        "B": "Solo igualdad salarial",
+        "C": "Solo igualdad sanitaria",
+        "D": "Iguales derechos, igual trato e iguales oportunidades"
+      },
+      "respuesta_correcta": "D"
+    },
+    {
+      "id": 351,
+      "tema": 6,
+      "pregunta": "Respecto a La Ley 2/2011, ¿cuál es la afirmación correcta según el temario?",
+      "opciones": {
+        "A": "Solo hombres",
+        "B": "Una cantidad similar de hombres y mujeres",
+        "C": "Exactamente el mismo número siempre",
+        "D": "Solo mujeres"
+      },
+      "respuesta_correcta": "B"
+    },
+    {
+      "id": 352,
+      "tema": 6,
+      "pregunta": "Indica la opción correcta sobre La Ley 2/2011 según el material de estudio.",
+      "opciones": {
+        "A": "Solo violencia escolar",
+        "B": "Solo conflictos administrativos",
+        "C": "Violencia de género",
+        "D": "Solo accidentes laborales"
+      },
+      "respuesta_correcta": "C"
+    },
+    {
+      "id": 353,
+      "tema": 6,
+      "pregunta": "Según el temario, ¿qué se indica sobre Entre los objetivos de las medidas frente a la violencia de género?",
+      "opciones": {
+        "A": "Reducir servicios",
+        "B": "Privatizar asistencia",
+        "C": "Eliminar la educación",
+        "D": "Sensibilizar a la población"
+      },
+      "respuesta_correcta": "D"
+    },
+    {
+      "id": 354,
+      "tema": 6,
+      "pregunta": "De acuerdo con el tema, ¿cuál es la opción correcta sobre Entre los objetivos de la ley?",
+      "opciones": {
+        "A": "Prevenir casos de violencia de género",
+        "B": "Privatizarlos",
+        "C": "Ignorarlos",
+        "D": "Promoverlos"
+      },
+      "respuesta_correcta": "A"
+    },
+    {
+      "id": 355,
+      "tema": 6,
+      "pregunta": "Respecto a La ley, ¿cuál es la afirmación correcta según el temario?",
+      "opciones": {
+        "A": "Erradicar la violencia de género",
+        "B": "Regularla como actividad",
+        "C": "Aumentarla",
+        "D": "Ignorarla"
+      },
+      "respuesta_correcta": "A"
+    },
+    {
+      "id": 356,
+      "tema": 6,
+      "pregunta": "Indica la opción correcta sobre La ley según el material de estudio.",
+      "opciones": {
+        "A": "Solo registrar",
+        "B": "Solo informar",
+        "C": "Proteger, atender y asistir a víctimas y sus hijos",
+        "D": "Solo sancionar"
+      },
+      "respuesta_correcta": "C"
+    },
+    {
+      "id": 357,
+      "tema": 6,
+      "pregunta": "Según el temario, ¿qué se indica sobre La ley?",
+      "opciones": {
+        "A": "Solo empleados públicos",
+        "B": "Solo mujeres",
+        "C": "A todas las personas y entidades que estén o trabajen en Asturias",
+        "D": "Solo empresas"
+      },
+      "respuesta_correcta": "C"
+    },
+    {
+      "id": 358,
+      "tema": 6,
+      "pregunta": "De acuerdo con el tema, ¿cuál es la opción correcta sobre La igualdad de trato entre mujeres y hombres significa ausencia de cualquier discriminación por razón de sexo.?",
+      "opciones": {
+        "A": "Separación por sexo",
+        "B": "Ausencia de cualquier discriminación por razón de sexo",
+        "C": "Trato preferente",
+        "D": "Solo igualdad salarial"
+      },
+      "respuesta_correcta": "B"
+    },
+    {
+      "id": 359,
+      "tema": 6,
+      "pregunta": "Respecto a La discriminación directa, ¿cuál es la afirmación correcta según el temario?",
+      "opciones": {
+        "A": "Discriminación que sufre una mujer por ser mujer",
+        "B": "Una medida de conciliación",
+        "C": "Una discriminación indirecta",
+        "D": "Un plan de igualdad"
+      },
+      "respuesta_correcta": "A"
+    },
+    {
+      "id": 360,
+      "tema": 6,
+      "pregunta": "Indica la opción correcta sobre La discriminación indirecta según el material de estudio.",
+      "opciones": {
+        "A": "Solo ocurre en hospitales",
+        "B": "Puede no parecer directa pero en el fondo lo es",
+        "C": "Solo afecta a hombres",
+        "D": "Siempre es evidente"
+      },
+      "respuesta_correcta": "B"
+    },
+    {
+      "id": 361,
+      "tema": 6,
+      "pregunta": "Según el temario, ¿qué se indica sobre Un ejemplo de discriminación indirecta?",
+      "opciones": {
+        "A": "Un permiso",
+        "B": "Una formación",
+        "C": "Un horario flexible",
+        "D": "Horarios que dificultan la conciliación familiar"
+      },
+      "respuesta_correcta": "D"
+    },
+    {
+      "id": 362,
+      "tema": 6,
+      "pregunta": "De acuerdo con el tema, ¿cuál es la opción correcta sobre El acoso sexual?",
+      "opciones": {
+        "A": "Solo una ausencia",
+        "B": "Solo una sanción",
+        "C": "Solo una discriminación salarial",
+        "D": "Comportamiento físico o verbal de naturaleza sexual"
+      },
+      "respuesta_correcta": "D"
+    },
+    {
+      "id": 363,
+      "tema": 6,
+      "pregunta": "Respecto a El acoso por razón de sexo, ¿cuál es la afirmación correcta según el temario?",
+      "opciones": {
+        "A": "Solo mejorar la conciliación",
+        "B": "Atentar contra la dignidad o crear un entorno intimidatorio por razón de sexo",
+        "C": "Solo ofrecer formación",
+        "D": "Solo dar información"
+      },
+      "respuesta_correcta": "B"
+    },
+    {
+      "id": 364,
+      "tema": 6,
+      "pregunta": "Indica la opción correcta sobre La violencia de género según el material de estudio.",
+      "opciones": {
+        "A": "Solo violencia laboral",
+        "B": "Violencia física o psicológica ejercida por un hombre en esos supuestos",
+        "C": "Solo violencia económica",
+        "D": "Solo violencia entre compañeros"
+      },
+      "respuesta_correcta": "B"
+    },
+    {
+      "id": 365,
+      "tema": 6,
+      "pregunta": "Según el temario, ¿qué se indica sobre Entre las formas de violencia de género mencionadas?",
+      "opciones": {
+        "A": "Solo accidentes",
+        "B": "Solo acoso laboral",
+        "C": "Solo discriminación indirecta",
+        "D": "Agresiones a la libertad sexual"
+      },
+      "respuesta_correcta": "D"
+    },
+    {
+      "id": 366,
+      "tema": 6,
+      "pregunta": "De acuerdo con el tema, ¿cuál es la opción correcta sobre Entre las formas de violencia de género mencionadas?",
+      "opciones": {
+        "A": "Solo formación",
+        "B": "Solo promoción",
+        "C": "Solo conciliación",
+        "D": "Amenazas"
+      },
+      "respuesta_correcta": "D"
+    },
+    {
+      "id": 367,
+      "tema": 6,
+      "pregunta": "Respecto a Entre las formas de violencia de género mencionadas, ¿cuál es la afirmación correcta según el temario?",
+      "opciones": {
+        "A": "Coacciones",
+        "B": "Solo igualdad salarial",
+        "C": "Solo educación",
+        "D": "Solo asistencia social"
+      },
+      "respuesta_correcta": "A"
+    },
+    {
+      "id": 368,
+      "tema": 6,
+      "pregunta": "Indica la opción correcta sobre Entre las formas de violencia de género mencionadas según el material de estudio.",
+      "opciones": {
+        "A": "Solo igualdad de oportunidades",
+        "B": "Solo formación",
+        "C": "Solo información",
+        "D": "Privación de libertades"
+      },
+      "respuesta_correcta": "D"
+    },
+    {
+      "id": 369,
+      "tema": 6,
+      "pregunta": "Según el temario, ¿qué se indica sobre Las mujeres víctimas de violencia de género?",
+      "opciones": {
+        "A": "Solo asistencia económica",
+        "B": "Información y asesoramiento",
+        "C": "Solo formación",
+        "D": "Solo empleo"
+      },
+      "respuesta_correcta": "B"
+    },
+    {
+      "id": 370,
+      "tema": 6,
+      "pregunta": "De acuerdo con el tema, ¿cuál es la opción correcta sobre La información a las víctimas se presta a través de servicios u oficinas de las administraciones públicas.?",
+      "opciones": {
+        "A": "Servicios u oficinas de las administraciones públicas",
+        "B": "Solo empresas",
+        "C": "Solo hospitales privados",
+        "D": "Solo sindicatos"
+      },
+      "respuesta_correcta": "A"
+    },
+    {
+      "id": 371,
+      "tema": 6,
+      "pregunta": "Respecto a La asistencia social integral, ¿cuál es la afirmación correcta según el temario?",
+      "opciones": {
+        "A": "Servicios sociales",
+        "B": "Solo universidades",
+        "C": "Solo empresas",
+        "D": "Solo tribunales"
+      },
+      "respuesta_correcta": "A"
+    },
+    {
+      "id": 372,
+      "tema": 6,
+      "pregunta": "Indica la opción correcta sobre La asistencia social integral según el material de estudio.",
+      "opciones": {
+        "A": "Solo escuelas",
+        "B": "Solo sindicatos",
+        "C": "Solo empresas",
+        "D": "Servicios de emergencias"
+      },
+      "respuesta_correcta": "D"
+    },
+    {
+      "id": 373,
+      "tema": 6,
+      "pregunta": "Según el temario, ¿qué se indica sobre La asistencia social integral?",
+      "opciones": {
+        "A": "Solo juzgados",
+        "B": "Servicios de acogida",
+        "C": "Solo centros de trabajo",
+        "D": "Solo universidades"
+      },
+      "respuesta_correcta": "B"
+    },
+    {
+      "id": 374,
+      "tema": 6,
+      "pregunta": "De acuerdo con el tema, ¿cuál es la opción correcta sobre La asistencia social integral?",
+      "opciones": {
+        "A": "Solo servicios electorales",
+        "B": "Solo servicios fiscales",
+        "C": "Servicios de recuperación",
+        "D": "Solo servicios empresariales"
+      },
+      "respuesta_correcta": "C"
+    },
+    {
+      "id": 375,
+      "tema": 6,
+      "pregunta": "Respecto a Las víctimas de violencia de género, ¿cuál es la afirmación correcta según el temario?",
+      "opciones": {
+        "A": "Asistencia jurídica gratuita antes de poner una denuncia",
+        "B": "Solo si pagan",
+        "C": "Solo si trabajan",
+        "D": "Solo después de la sentencia"
+      },
+      "respuesta_correcta": "A"
+    },
+    {
+      "id": 376,
+      "tema": 6,
+      "pregunta": "Indica la opción correcta sobre Las víctimas según el material de estudio.",
+      "opciones": {
+        "A": "Solo abogado",
+        "B": "Solo mediador",
+        "C": "Abogado y procurador",
+        "D": "Solo procurador"
+      },
+      "respuesta_correcta": "C"
+    },
+    {
+      "id": 377,
+      "tema": 6,
+      "pregunta": "Según el temario, ¿qué se indica sobre El Principado?",
+      "opciones": {
+        "A": "Solo aumentar hospitales",
+        "B": "Solo reducir gastos",
+        "C": "Mantener y mejorar la salud",
+        "D": "Solo privatizar servicios"
+      },
+      "respuesta_correcta": "C"
+    },
+    {
+      "id": 378,
+      "tema": 6,
+      "pregunta": "De acuerdo con el tema, ¿cuál es la opción correcta sobre El Principado?",
+      "opciones": {
+        "A": "Las diferencias territoriales",
+        "B": "Los servicios de urgencias",
+        "C": "Las desigualdades de género en salud",
+        "D": "Las diferencias salariales únicamente"
+      },
+      "respuesta_correcta": "C"
+    },
+    {
+      "id": 379,
+      "tema": 6,
+      "pregunta": "Respecto a Los programas de salud, ¿cuál es la afirmación correcta según el temario?",
+      "opciones": {
+        "A": "Sin perspectiva",
+        "B": "Con perspectiva de género",
+        "C": "Solo con perspectiva territorial",
+        "D": "Solo con perspectiva económica"
+      },
+      "respuesta_correcta": "B"
+    },
+    {
+      "id": 380,
+      "tema": 6,
+      "pregunta": "Indica la opción correcta sobre La promoción de la salud y prevención según el material de estudio.",
+      "opciones": {
+        "A": "Solo el salario",
+        "B": "Las diferencias entre hombres y mujeres",
+        "C": "Solo el lugar de residencia",
+        "D": "Solo la edad"
+      },
+      "respuesta_correcta": "B"
+    },
+    {
+      "id": 381,
+      "tema": 6,
+      "pregunta": "Según el temario, ¿qué se indica sobre Mujeres y hombres?",
+      "opciones": {
+        "A": "Según el empleo",
+        "B": "Solo hombres",
+        "C": "En las mismas condiciones",
+        "D": "Solo mujeres"
+      },
+      "respuesta_correcta": "C"
+    },
+    {
+      "id": 382,
+      "tema": 6,
+      "pregunta": "De acuerdo con el tema, ¿cuál es la opción correcta sobre El Principado?",
+      "opciones": {
+        "A": "Apoyar a las mujeres víctimas",
+        "B": "Excluirlas",
+        "C": "Ignorarlas",
+        "D": "Sancionarlas"
+      },
+      "respuesta_correcta": "A"
+    },
+    {
+      "id": 383,
+      "tema": 6,
+      "pregunta": "Respecto a Deben hacerse programas de salud sexual y salud reproductiva., ¿cuál es la afirmación correcta según el temario?",
+      "opciones": {
+        "A": "Solo programas deportivos",
+        "B": "Programas de salud sexual y reproductiva",
+        "C": "Solo programas fiscales",
+        "D": "Solo programas judiciales"
+      },
+      "respuesta_correcta": "B"
+    },
+    {
+      "id": 384,
+      "tema": 6,
+      "pregunta": "Indica la opción correcta sobre Los programas de salud según el material de estudio.",
+      "opciones": {
+        "A": "Embarazos no deseados o enfermedades de transmisión sexual",
+        "B": "Solo conflictos laborales",
+        "C": "Solo accidentes",
+        "D": "Solo lesiones deportivas"
+      },
+      "respuesta_correcta": "A"
+    },
+    {
+      "id": 385,
+      "tema": 6,
+      "pregunta": "Según el temario, ¿qué se indica sobre Debe garantizarse el acceso a la interrupción voluntaria del embarazo en la sanidad pública.?",
+      "opciones": {
+        "A": "Solo en centros laborales",
+        "B": "En la sanidad pública",
+        "C": "Solo en el extranjero",
+        "D": "Solo en centros privados"
+      },
+      "respuesta_correcta": "B"
+    },
+    {
+      "id": 386,
+      "tema": 6,
+      "pregunta": "De acuerdo con el tema, ¿cuál es la opción correcta sobre El Principado?",
+      "opciones": {
+        "A": "Solo formación jurídica",
+        "B": "Sin formación",
+        "C": "Formar a los empleados con perspectiva de género",
+        "D": "Solo formación económica"
+      },
+      "respuesta_correcta": "C"
+    },
+    {
+      "id": 387,
+      "tema": 6,
+      "pregunta": "Respecto a Debe potenciarse la investigación científica sobre problemas de salud específicos de las mujeres., ¿cuál es la afirmación correcta según el temario?",
+      "opciones": {
+        "A": "Solo investigación deportiva",
+        "B": "Investigación científica sobre problemas específicos de las mujeres",
+        "C": "Solo investigación económica",
+        "D": "Solo investigación administrativa"
+      },
+      "respuesta_correcta": "B"
+    },
+    {
+      "id": 388,
+      "tema": 6,
+      "pregunta": "Indica la opción correcta sobre El Principado buscará la igualdad de oportunidades entre sus empleadas y empleados públicos. según el material de estudio.",
+      "opciones": {
+        "A": "Solo igualdad territorial",
+        "B": "Solo igualdad sanitaria",
+        "C": "Solo igualdad salarial",
+        "D": "Igualdad de oportunidades"
+      },
+      "respuesta_correcta": "D"
+    },
+    {
+      "id": 389,
+      "tema": 6,
+      "pregunta": "Según el temario, ¿qué se indica sobre Las mujeres y hombres?",
+      "opciones": {
+        "A": "En igualdad de condiciones",
+        "B": "Solo mujeres",
+        "C": "Solo hombres",
+        "D": "Según antigüedad"
+      },
+      "respuesta_correcta": "A"
+    },
+    {
+      "id": 390,
+      "tema": 6,
+      "pregunta": "De acuerdo con el tema, ¿cuál es la opción correcta sobre Debe facilitarse la conciliación de la vida personal y laboral.?",
+      "opciones": {
+        "A": "La conciliación de la vida personal y laboral",
+        "B": "Solo la vida laboral",
+        "C": "Solo la vida personal",
+        "D": "Solo la vida sindical"
+      },
+      "respuesta_correcta": "A"
+    },
+    {
+      "id": 391,
+      "tema": 6,
+      "pregunta": "Respecto a Debe darse las mismas oportunidades a empleadas y empleados para formarse y ascender., ¿cuál es la afirmación correcta según el temario?",
+      "opciones": {
+        "A": "Las mismas oportunidades",
+        "B": "Solo a directivos",
+        "C": "Solo a mujeres",
+        "D": "Solo a hombres"
+      },
+      "respuesta_correcta": "A"
+    },
+    {
+      "id": 392,
+      "tema": 6,
+      "pregunta": "Indica la opción correcta sobre Debe haber el mismo número de mujeres y hombres en órganos de selección y tribunales de oposiciones. según el material de estudio.",
+      "opciones": {
+        "A": "Solo hombres",
+        "B": "El mismo número de mujeres y hombres",
+        "C": "Un número indeterminado",
+        "D": "Solo mujeres"
+      },
+      "respuesta_correcta": "B"
+    },
+    {
+      "id": 393,
+      "tema": 6,
+      "pregunta": "Según el temario, ¿qué se indica sobre Deben ponerse medidas de prevención del acoso sexual y del acoso por razón de sexo.?",
+      "opciones": {
+        "A": "Medidas de prevención",
+        "B": "Medidas de promoción",
+        "C": "Ninguna medida",
+        "D": "Solo sanciones posteriores"
+      },
+      "respuesta_correcta": "A"
+    },
+    {
+      "id": 394,
+      "tema": 6,
+      "pregunta": "De acuerdo con el tema, ¿cuál es la opción correcta sobre Debe comprobarse que las medidas de prevención del acoso se cumplen de?",
+      "opciones": {
+        "A": "Que se cumplen de forma real",
+        "B": "Solo que existan por escrito",
+        "C": "Solo que se archiven",
+        "D": "Solo que se anuncien"
+      },
+      "respuesta_correcta": "A"
+    },
+    {
+      "id": 395,
+      "tema": 6,
+      "pregunta": "Respecto a La Administración del Principado, ¿cuál es la afirmación correcta según el temario?",
+      "opciones": {
+        "A": "Planes de igualdad",
+        "B": "Planes solo económicos",
+        "C": "Planes solo electorales",
+        "D": "Planes solo sanitarios"
+      },
+      "respuesta_correcta": "A"
+    },
+    {
+      "id": 396,
+      "tema": 6,
+      "pregunta": "Indica la opción correcta sobre La perspectiva de género según el material de estudio.",
+      "opciones": {
+        "A": "Sustituir la igualdad",
+        "B": "Analizar y mostrar las desigualdades entre hombres y mujeres",
+        "C": "Crear discriminaciones",
+        "D": "Eliminar las diferencias"
+      },
+      "respuesta_correcta": "B"
+    },
+    {
+      "id": 397,
+      "tema": 6,
+      "pregunta": "Según el temario, ¿qué se indica sobre La asistencia social integral para víctimas?",
+      "opciones": {
+        "A": "Solo servicios sociales",
+        "B": "Servicios sociales, emergencias, acogida y recuperación",
+        "C": "Solo servicios jurídicos",
+        "D": "Solo servicios sanitarios"
+      },
+      "respuesta_correcta": "B"
+    },
+    {
+      "id": 398,
+      "tema": 6,
+      "pregunta": "De acuerdo con el tema, ¿cuál es la opción correcta sobre El procurador?",
+      "opciones": {
+        "A": "Dictar sentencias",
+        "B": "Aprobar leyes",
+        "C": "Representar a otra persona en algunos procedimientos judiciales",
+        "D": "Investigar delitos"
+      },
+      "respuesta_correcta": "C"
+    },
+    {
+      "id": 399,
+      "tema": 6,
+      "pregunta": "Respecto a La Ley 2/2011 pretende que mujeres y hombres tengan iguales derechos, ¿cuál es la afirmación correcta según el temario?",
+      "opciones": {
+        "A": "Solo igualdad salarial",
+        "B": "Solo igualdad en formación",
+        "C": "Iguales derechos, igual trato e iguales oportunidades",
+        "D": "Solo igualdad de acceso"
+      },
+      "respuesta_correcta": "C"
+    },
+    {
+      "id": 400,
+      "tema": 6,
+      "pregunta": "Indica la opción correcta sobre Los planes de igualdad de la Administración del Principado según el material de estudio.",
+      "opciones": {
+        "A": "Solo para hombres",
+        "B": "Solo para personal sanitario",
+        "C": "Para mujeres y hombres",
+        "D": "Solo para mujeres"
+      },
+      "respuesta_correcta": "C"
+    }
+  ]
+}

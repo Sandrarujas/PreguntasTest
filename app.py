@@ -10,22 +10,40 @@ import streamlit as st
 # ============================================================
 
 ARCHIVO_JSON = Path(__file__).with_name(
-    "banco_preguntas_ayudante_servicios_400.json"
+    "banco_preguntas_bloque_especifico_400.json"
+)
+
+# Nombre del otro banco que usará la aplicación para el
+# Bloque General. En esta versión estamos trabajando con
+# el Bloque Específico.
+ARCHIVO_JSON_GENERAL = Path(__file__).with_name(
+    "banco_preguntas_bloque_general_400.json"
 )
 
 NOMBRE_BLOQUE = "Ayudante de Servicios"
 
 TEMAS = {
-    7: "Tema 7 - La cocina hospitalaria centralizada",
-    8: "Tema 8 - Las materias primas",
-    9: "Tema 9 - Los alimentos y las dietas",
-    10: "Tema 10 - Acciones con alimentos. Limpieza de la vajilla",
-    11: "Tema 11 - Normas higiénico-sanitarias de aplicación",
-    12: "Tema 12 - La contaminación de los alimentos",
-    13: "Tema 13 - Seguridad e higiene en el trabajo",
-    14: "Tema 14 - Protección medioambiental",
-    15: "Tema 15 - El servicio de ropa y lencería",
-    16: "Tema 16 - La ropa limpia hospitalaria",
+    1: (
+        "Tema 1 - La Constitución Española de 1978: "
+        "El derecho a la protección a la salud en la Constitución"
+    ),
+    2: (
+        "Tema 2 - Ley 14/1986 General de Sanidad. "
+        "Sistema Nacional de Salud"
+    ),
+    3: (
+        "Tema 3 - Ley 55/2003 del Estatuto del Personal "
+        "Estatutario de los Servicios de Salud"
+    ),
+    4: (
+        "Tema 4 - Ley 7/2019 de Salud del Principado de Asturias"
+    ),
+    5: (
+        "Tema 5 - Estatuto de Autonomía del Principado de Asturias"
+    ),
+    6: (
+        "Tema 6 - Ley 2/2011 de igualdad efectiva de mujeres y hombres"
+    ),
 }
 
 NUM_PREGUNTAS_DEFECTO = 10
